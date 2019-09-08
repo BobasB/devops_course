@@ -4,5 +4,5 @@ All course curriculums will be in Ukrainian language.
 ---
 ## [Lab_1: Здобуття навиків роботи з системою версіонування коду GitHub.](https://github.com/BobasB/devops_course/tree/master/lab_1) 
 ---
-## [Lab_2: -]()
+## [Lab_2: -](https://github.com/BobasB/devops_course/tree/master/lab_2)
 ---
