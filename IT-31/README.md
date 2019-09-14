@@ -1,5 +1,6 @@
 # IT-31 group
 
-| Прізвище | Здав | Захистив |
-| ------------- |:------------------:| ------------------:|
-| pavlyshynets  | :white_check_mark: | :white_check_mark: |
+| Прізвище      | Лабораторна   | Здав  | Захистив  |
+| :------------ |:---:| :------------------:| :------------------:|
+| Pavlyshynets  |:one: |:white_check_mark: |:white_check_mark: |
+| Hrytsyk       |:one: |:white_check_mark: |:white_check_mark: |
