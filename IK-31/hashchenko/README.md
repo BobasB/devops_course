@@ -1,0 +1,1 @@
+[Lab_1](https://github.com/IK-31-hashchenko/IK_31_hashchenko/tree/master/Lab_1)
