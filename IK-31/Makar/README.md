@@ -1,0 +1,1 @@
+[Lab 1](https://github.com/m-marinka/ik-31-makar)
