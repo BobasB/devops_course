@@ -3,7 +3,7 @@
 | :------------ |:-----:| :----:| :----:| :----:| :----:| :----:| :----:|
 | Pavlyshynets  | :white_check_mark: / :white_check_mark: | :white_check_mark: / :white_check_mark:
 | Hrytsyk       | :white_check_mark: / :white_check_mark: |
-| Lomovatskyi   | :white_check_mark: / :x: |
+| Lomovatskyi   | :white_check_mark: / :white_check_mark: |
 | Domalchuk     | :white_check_mark: / :x: |
 
 ---
