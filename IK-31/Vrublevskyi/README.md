@@ -1,0 +1,1 @@
+1. [Lab_1](https://github.com/Vetal-V/IK-31-Vrublevskyi/tree/master/Lab_1)

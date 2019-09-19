@@ -1,12 +1,26 @@
 import requests
+import ntplib
+from datetime import datetime
+
+
+def get_time_if_url_not_work():
+    c = ntplib.NTPClient()
+    response = c.request('0.ua.pool.ntp.org', version=3)
+    t = datetime.fromtimestamp(response.tx_time).time().strftime('%H:%M:%S %p')
+    d = datetime.fromtimestamp(response.tx_time).date().strftime('%Y-%m-%d')
+    date = {"date": d, "time": t}
+    return date
 
 
 def main(url=''):
     if not url:
         print("No URL passed to function")
         return False
-    r = requests.get(url=url)
-    d = r.json()
+    try:
+        r = requests.get(url=url)
+        d = r.json()
+    except:
+        d = get_time_if_url_not_work()
     if "time" in d.keys():
         print("Time is: ", d['time'])
     try:
