@@ -3,9 +3,10 @@
 | :------------ |:-----:| :----:| :----:| :----:| :----:| :----:| :----:|
 | Pavlyshynets  | :white_check_mark: / :white_check_mark: | :white_check_mark: / :white_check_mark:
 | Hrytsyk       | :white_check_mark: / :white_check_mark: |
-| Lomovatskyi   | :white_check_mark: / :white_check_mark: |
+| Lomovatskyi   | :white_check_mark: / :white_check_mark: | :white_check_mark: / :white_check_mark: |
 | Domalchuk     | :white_check_mark: / :white_check_mark: |
 | Shynkler      | :white_check_mark: / :white_check_mark: |
+| Sotnyk        | :white_check_mark: / :white_check_mark: |
 
 ---
 ## Пояснення

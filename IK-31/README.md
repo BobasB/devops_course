@@ -7,6 +7,7 @@
 | Hashchenko    |:white_check_mark: / :white_check_mark: |
 | Vrublevskyi   |:white_check_mark: / :white_check_mark: |
 | Makar         |:white_check_mark: / :white_check_mark: |
+| Bobyk         |:white_check_mark: / :white_check_mark: |
 
 ---
 ## Пояснення
