@@ -4,10 +4,13 @@ All course curriculums will be in Ukrainian language.
 ---
 
 ## [Lab_1: Здобуття навиків роботи з системою версіонування коду GitHub.](https://github.com/BobasB/devops_course/tree/master/lab1) 
+Deadline: Sunday 22.09.2019 
 ---
 ## [Lab_2: Автоматизація. Знайомство з CI/CD.](https://github.com/BobasB/devops_course/tree/master/lab2)
+Deadline: Sunday 06.10.2019
 ---
 ## [Lab_3: -]()
+Deadline: -
 ---
 :bangbang: Створюючи пул реквест вказуйте: Номер роботи, Прізвище ІП, група.
 
