@@ -1,0 +1,1 @@
+[Lab1-Shevtsiv I.M.](https://github.com/IgorShevtsiv/IK-31/tree/master/Shevtsiv)
