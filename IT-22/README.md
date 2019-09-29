@@ -1,8 +1,8 @@
-# IK-31 group
+# IТ-22 group
 
 | Прізвище      | :one: | :two: | :three: | :four: | :five: | :six: | :seven: |
 | :------------ |:-----:| :----:| :----:| :----:| :----:| :----:| :----:|
-| Sekh
+| Sekh          | :white_check_mark: / :white_check_mark: |
 
 ---
 ## Пояснення
