@@ -2,3 +2,5 @@
 
 #[Lab 2](https://github.com/kate-pavlenko/Programming-technologies-it/tree/master/Lab2)
 
+#[Lab 3](https://github.com/kate-pavlenko/Programming-technologies-it/tree/master/Lab3)
+
