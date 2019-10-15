@@ -1,0 +1,1 @@
+## [Lab_1](https://github.com/skorik-19/skorinovych/tree/master/Lab_1)
