@@ -2,7 +2,7 @@
 | Прізвище      | :one: | :two: | :three: | :four: | :five: | :six: | :seven: |
 | :----------- |:-----:| :----:| :----:| :----:| :----:| :----:| :----:|
 | Pavlyshynets |:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
-| Hrytsyk      |:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
+| Hrytsyk      |:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
 | Lomovatskyi  |:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
 | Domalchuk    |:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
 | Shynkler     |:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
@@ -15,6 +15,8 @@
 | Dyachenko    |:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
 | Demidov      |:white_check_mark: / :white_check_mark:|
 | Nalyvaiko    |:white_check_mark: / :white_check_mark:|
+| Skorinovych  |:white_check_mark: / :x:|
+
 
 
 ---
