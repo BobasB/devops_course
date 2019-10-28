@@ -7,7 +7,7 @@
 | Bukhniy  |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|
 | Balian   |:white_check_mark: / :white_check_mark:|
 | Yunko    |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|
-| Krenta   |:white_check_mark: / :white_check_mark:|
+| Krenta   |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|
 
 
 ---
