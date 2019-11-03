@@ -15,7 +15,10 @@ All course curriculums will be in Ukrainian language.
 ## [Lab_4: Робота з Docker](https://github.com/BobasB/devops_course/tree/master/lab4)
 > Deadline: - Sunday 10.11.2019
 ---
-## [Lab_5: -]()
+## [Lab_5: Автоматизація за допомогою Makefile VS Docker Compose](https://github.com/BobasB/devops_course/tree/master/lab5)
+> Deadline: - Sunday 01.12.2019
+---
+## [Lab_6: ]()
 > Deadline: - Sunday -
 ---
 :bangbang: Створюючи пул реквест вказуйте: Номер роботи, Прізвище ІП, група.
