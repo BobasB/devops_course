@@ -3,7 +3,3 @@
 2. [Lab_2](https://github.com/NotNull0/devops_course-labs/tree/master/lab2)
 3. [Lab_3](https://github.com/NotNull0/devops_course-labs/tree/master/lab3)
 3. [Lab_4](https://github.com/NotNull0/devops_course-labs/tree/master/lab4)
-
-
-
-Лабораторна робота 4. ІТ-22. Сех Назар
