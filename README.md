@@ -4,23 +4,24 @@ All course curriculums will be in Ukrainian language.
 ---
 
 ## [Lab_1: Здобуття навиків роботи з системою версіонування коду GitHub.](https://github.com/BobasB/devops_course/tree/master/lab1) 
-> Deadline: Sunday 29.09.2019 
+> Deadline: Sunday 29.09.2019 (захист не буде зараховано)
 ---
 ## [Lab_2: Автоматизація. Знайомство з CI/CD.](https://github.com/BobasB/devops_course/tree/master/lab2)
-> Deadline: Sunday 13.10.2019
+> Deadline: Sunday 13.10.2019 (захист не буде зараховано)
 ---
 ## [Lab_3: Вступ до моніторингу](https://github.com/BobasB/devops_course/tree/master/lab3)
-> Deadline: - Sunday 27.10.2019
+> Deadline: - Sunday 27.10.2019 (захист не буде зараховано)
 ---
 ## [Lab_4: Робота з Docker](https://github.com/BobasB/devops_course/tree/master/lab4)
-> Deadline: - Sunday 10.11.2019
+> Deadline: - Friday 15.11.2019 
 ---
 ## [Lab_5: Автоматизація за допомогою Makefile VS Docker Compose](https://github.com/BobasB/devops_course/tree/master/lab5)
 > Deadline: - Sunday 01.12.2019
 ---
-## [Lab_6: ]()
+## [Lab_6: ](...)
 > Deadline: - Sunday -
 ---
+## Як робити pull request при здачі лабораторної!
 :bangbang: Створюючи пул реквест вказуйте: Номер роботи, Прізвище ІП, група.
 
 :bangbang: Читайте коменти у пул реквестах. Я відписую чи лабораторна зарахована чи ні (GitHub повинен відправляти е-мейли про активність, читайте їх).

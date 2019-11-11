@@ -1,7 +1,7 @@
 # IТ-22 group
 
-| Прізвище      | :one: | :two: | :three: | :four: | :five: | :six: | :seven: |
-| :-------  |:-----:| :----:| :----:| :----:| :----:| :----:| :----:|
+| Прізвище  | :one:| :two:| :three:| :four:| :five:| :six:| 
+| :-------  |:----:| :---:| :-----:| :----:| :----:| :---:|
 | Sekh      |:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|
 | Danilyak  |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|
 | Bukhniy   |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|
