@@ -7,11 +7,11 @@
 | Domalchuk    |:white_check_mark:/:white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|
 | Shynkler     |:white_check_mark:/:white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
 | Sotnyk       |:white_check_mark:/:white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
-| Pylypchuk    |:white_check_mark:/:white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|
+| Pylypchuk    |:white_check_mark:/:white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
 | Pavlenko     |:white_check_mark:/:white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
 | Rishko       |:white_check_mark:/:white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|
 | Yankova      |:white_check_mark:/:white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|
-| Biletskyi    |:white_check_mark:/:white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
+| Biletskyi    |:white_check_mark:/:white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
 | Dyachenko    |:white_check_mark:/:white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
 | Demidov      |:white_check_mark:/:white_check_mark:|
 | Nalyvaiko    |:white_check_mark:/:white_check_mark:|:white_check_mark:/:x:|
