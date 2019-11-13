@@ -3,12 +3,13 @@ python:
   - "3.7"
 jobs:
   include:
-    - name: "Build Lab 5"
+    - name: "Test lab 2"
       python: 3.7
-install:
-  - pip install pipenv
-  - cd ./lab5/my_app/
-  - pipenv install -r requirements.txt
+      install:
+        - pip install pipenv
+        - cd ./lab2/
+        - pipenv install
+      script: pipenv pytest tests/tests.py
 branches:
   only:
     - master
