@@ -1,0 +1,14 @@
+language: python
+python:
+  - "3.7"
+jobs:
+  include:
+    - name: "Build Lab 5"
+      python: 3.7
+install:
+  - pip install pipenv
+  - cd ./lab5/my_app/
+  - pipenv install -r requirements.txt
+branches:
+  only:
+    - master
