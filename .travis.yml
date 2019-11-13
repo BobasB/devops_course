@@ -9,7 +9,7 @@ jobs:
         - pip install pipenv
         - cd ./lab2/
         - pipenv install
-      script: pipenv pytest tests/tests.py
+      script: pipenv run pytest tests/tests.py
 branches:
   only:
     - master
