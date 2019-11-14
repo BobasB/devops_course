@@ -17,8 +17,7 @@ jobs:
         - cd ./lab3/
         - pipenv install
       script:
-        - pipenv run server > ~/ci-build.log 2>&1 &
-        - pipenv run python monitoring.py
+        - pipenv run server > ~/ci-build.log 2>&1 & && pipenv run python monitoring.py
     - name: "Build Lab 4"
       services:
         - docker
