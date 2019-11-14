@@ -1,6 +1,8 @@
 language: python
+
 python:
   - "3.7"
+
 jobs:
   include:
     - name: "Test lab 2"
@@ -10,6 +12,13 @@ jobs:
         - cd ./lab2/
         - pipenv install
       script: pipenv run pytest tests/tests.py
+    - name: "Build Docker for lab 4"
+      services:
+        - docker
+      script:
+        - cd ./lab4/
+        - docker build -t bobas/lab4-examples:django .
+        - docker images
 branches:
   only:
     - master
