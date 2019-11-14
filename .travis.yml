@@ -5,21 +5,19 @@ python:
 
 jobs:
   include:
-    - name: "Build Lab 2"
+    - name: "Build Lab 2. Fail with tests"
       python: 3.7
       install:
         - cd ./lab2/
         - pipenv install
       script: pipenv run pytest tests/tests.py || true
-    - name: "Build Lab 3"
+    - name: "Build Lab 3. Fail to run and test"
       python: 3.7
       install:
         - cd ./lab3/
         - pipenv install
-      script:
-        - pipenv run server > ~/ci-build.log 2>&1 &
-        - pipenv run python monitoring.py || true
-    - name: "Build Lab 4"
+      script: ./scripts/travis-build.sh
+    - name: "Build Lab 4. Try to push images"
       services:
         - docker
       install:
@@ -27,7 +25,7 @@ jobs:
       script:
         - docker build -t bobas/lab4-examples:django .
         - docker images
-    - name: "Build Lab 5"
+    - name: "Build Lab 5. Success"
       services:
         - docker
       install:
