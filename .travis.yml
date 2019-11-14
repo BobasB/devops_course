@@ -17,7 +17,8 @@ jobs:
         - cd ./lab3/
         - pipenv install
       script:
-        - pipenv run server > ~/ci-build.log 2>&1 & | pipenv run python monitoring.py
+        - pipenv run server > ~/ci-build.log 2>&1 &
+        - pipenv run python monitoring.py || true
     - name: "Build Lab 4"
       services:
         - docker
@@ -26,6 +27,16 @@ jobs:
       script:
         - docker build -t bobas/lab4-examples:django .
         - docker images
+    - name: "Build Lab 5"
+      services:
+        - docker
+      install:
+        - cd ./lab5/
+        - make app
+        - make tests
+      script:
+        - make run
+        - make test-app
 branches:
   only:
     - master
