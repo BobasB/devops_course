@@ -8,7 +8,6 @@ jobs:
     - name: "Build Lab 2"
       python: 3.7
       install:
-        - pip install pipenv
         - cd ./lab2/
         - pipenv install
       script: pipenv run pytest tests/tests.py || true
@@ -17,13 +16,15 @@ jobs:
       install:
         - cd ./lab3/
         - pipenv install
+      script:
         - pipenv run server > ~/ci-build.log 2>&1 &
-      script: pipenv run python monitoring.py
+        - pipenv run python monitoring.py
     - name: "Build Lab 4"
       services:
         - docker
-      script:
+      install:
         - cd ./lab4/
+      script:
         - docker build -t bobas/lab4-examples:django .
         - docker images
 branches:
