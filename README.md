@@ -20,7 +20,6 @@ All course curriculums will be in Ukrainian language.
 ---
 ## [Lab_6: ](...)
 > Deadline: - Sunday 15.12.2019
-> [![Build Status](https://travis-ci.org/BobasB/devops_course.svg?branch=master)](https://travis-ci.org/BobasB/devops_course)
 ---
 ## Як робити pull request при здачі лабораторної!
 :bangbang: Створюючи пул реквест вказуйте: Номер роботи, Прізвище ІП, група.
@@ -34,3 +33,5 @@ All course curriculums will be in Ukrainian language.
 - виконуючи лабораторну - номеруйте пункти які Ви виконуєте у Вашому README.md;
 - використовуйте форматування Markdown коли заповнюєте README.md;
 - у Ваших комітах пишіть повідомлення: Номер роботи - що зроблено в коміті;
+---
+## Build Status [![Build Status](https://travis-ci.org/BobasB/devops_course.svg?branch=master)](https://travis-ci.org/BobasB/devops_course)
