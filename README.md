@@ -18,7 +18,7 @@ All course curriculums will be in Ukrainian language.
 ## [Lab_5: Автоматизація за допомогою Makefile VS Docker Compose](https://github.com/BobasB/devops_course/tree/master/lab5)
 > Deadline: - Sunday 01.12.2019
 ---
-## [Lab_6: ](...)
+## [Lab_6: Автоматизація за допомогою CI/CD серверів.](https://github.com/BobasB/devops_course/tree/master/lab6)
 > Deadline: - Sunday 15.12.2019
 ---
 ## Як робити pull request при здачі лабораторної!
