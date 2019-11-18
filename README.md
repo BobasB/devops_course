@@ -19,7 +19,8 @@ All course curriculums will be in Ukrainian language.
 > Deadline: - Sunday 01.12.2019
 ---
 ## [Lab_6: ](...)
-> Deadline: - Sunday -
+> Deadline: - Sunday 15.12.2019
+> [![Build Status](https://travis-ci.org/BobasB/devops_course.svg?branch=master)](https://travis-ci.org/BobasB/devops_course)
 ---
 ## Як робити pull request при здачі лабораторної!
 :bangbang: Створюючи пул реквест вказуйте: Номер роботи, Прізвище ІП, група.
