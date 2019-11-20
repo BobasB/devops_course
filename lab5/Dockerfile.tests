@@ -1,0 +1,19 @@
+FROM python:3.7-alpine
+LABEL author="Bohdan Buhyl"
+
+# оновлюємо систему та встановлюємо потрібні пакети
+RUN apk update \
+    && apk upgrade \
+    && apk add git \
+    && pip install pipenv
+
+WORKDIR /tests
+
+# Копіюємо файл із списком пакетів які нам потрібно інсталювати
+COPY tests/requirements.txt ./
+RUN pipenv install -r requirements.txt
+
+# Копіюємо нашого проекту
+COPY tests/ ./
+
+ENTRYPOINT pipenv run pytest test_app.py --url http://app:5000

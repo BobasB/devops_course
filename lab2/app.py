@@ -12,15 +12,7 @@ def get_time_if_url_not_work():
     return date
 
 
-def main(url=''):
-    if not url:
-        print("No URL passed to function")
-        return False
-    try:
-        r = requests.get(url=url)
-        d = r.json()
-    except:
-        d = get_time_if_url_not_work()
+def check_time(d):
     if "time" in d.keys():
         print("Time is: ", d['time'])
     try:
@@ -29,6 +21,21 @@ def main(url=''):
         print("No date in response!!!")
         raise KeyError
 
+
+def main(url=''):
+    if not url:
+        print("No URL passed to function")
+        return False
+
+    try:
+        r = requests.get(url=url)
+    except requests.exceptions.RequestException as e:
+        raise ConnectionError
+
+    if r:
+        check_time(r.json())
+    else:
+        check_time(get_time_if_url_not_work())
     return True
 
 
