@@ -1,4 +1,4 @@
-# devops_course
+# devops_course [![Build Status](https://travis-ci.org/BobasB/devops_course.svg?branch=master)](https://travis-ci.org/BobasB/devops_course)
 This course is for training DevOps engineering. 
 All course curriculums will be in Ukrainian language.
 ---
@@ -34,4 +34,4 @@ All course curriculums will be in Ukrainian language.
 - використовуйте форматування Markdown коли заповнюєте README.md;
 - у Ваших комітах пишіть повідомлення: Номер роботи - що зроблено в коміті;
 ---
-## Build Status [![Build Status](https://travis-ci.org/BobasB/devops_course.svg?branch=master)](https://travis-ci.org/BobasB/devops_course)
+## Build Status 
