@@ -2,3 +2,4 @@
 2. [Lab_2](https://github.com/Vetal-V/IK-31-Vrublevskyi/tree/master/lab_2)
 3. [Lab_3](https://github.com/Vetal-V/IK-31-Vrublevskyi/tree/master/lab_3)
 4. [Lab_4](https://github.com/Vetal-V/IK-31-Vrublevskyi/tree/master/lab_4)
+5. [Lab_5](https://github.com/Vetal-V/IK-31-Vrublevskyi/tree/master/lab_5)
