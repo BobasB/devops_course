@@ -1,5 +1,5 @@
 ## Lab_6: Автоматизація за допомогою CI/CD серверів.
-### Pre-requirements:
+### Pre-requirements:   
 - аккаунт GitHub;
 - зареєструватись на сайті [Travis](https://travis-ci.org) - використайте вхід за допомогою GitHub креденшалів і погодьтесь з дозволами які вимагає Travis;
 ### What to do.
