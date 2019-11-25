@@ -8,3 +8,4 @@
 
 #[Lab 5](https://github.com/tarasshynkler/firstrepos/tree/master/Lab_5)
 
+#[Lab 6](https://github.com/tarasshynkler/firstrepos/tree/master/Lab_6)
