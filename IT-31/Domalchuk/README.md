@@ -9,12 +9,12 @@
 | #5 | [Laba #5](https://github.com/Domalyyy/NULP/tree/master/lab_5) |
 | #6 | [Laba #6](https://github.com/Domalyyy/NULP/tree/master/lab_6) |
 
-All labs: ![All labs](https://github.com/Domalyyy/NULP)
+All labs: [All labs](https://github.com/Domalyyy/NULP)
 
-Travis: ![Travis](https://travis-ci.org/Domalyyy/NULP)
+Travis: [Travis](https://travis-ci.org/Domalyyy/NULP)
 
 Docker Hub:
 
-	- lab_4: ![lab 4](https://hub.docker.com/repository/docker/domaly/lab_4)
+- lab_4: [lab 4](https://hub.docker.com/repository/docker/domaly/lab_4)
 	
-	- lab_5: ![lab_5](https://hub.docker.com/repository/docker/domaly/lab_5)
+- lab_5: [lab 5](https://hub.docker.com/repository/docker/domaly/lab_5)
