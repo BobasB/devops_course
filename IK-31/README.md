@@ -8,7 +8,7 @@
 | Vrublevskyi |:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
 | Makar       |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|
 | Bobyk       |:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|
-| Kuksenko    |:white_check_mark: / :white_check_mark:|
+| Kuksenko    |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|
 | Shevtsiv    |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
 | Kravchuk    |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
 | Ruzhyrskyi  |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
