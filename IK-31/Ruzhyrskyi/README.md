@@ -8,5 +8,8 @@
 
 * [Лабораторна № 4](https://github.com/Marianruzhyrskyi/DevLabs/tree/master/lab_4)
 
-
 * [Лабораторна № 5](https://github.com/Marianruzhyrskyi/DevLabs/tree/master/lab_5)
+
+NEW!!!:
+* [Лабораторна № 6](https://github.com/Marianruzhyrskyi/DevLabs/tree/master/lab_6)
+
