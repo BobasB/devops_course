@@ -3,10 +3,10 @@ This course is for training DevOps engineering.
 All course curriculums will be in Ukrainian language.
 ---
 # Захист лабораторних робіт (Бугиль):
-> 09.12 (Понеділок) - 1 пара, 305 XI
-> 10.12 (Вівторок) - 1 пара, 301 XI
-> 11.12 (Середа) - 1 пара, 305 XI
-> 12.12 (Четвер) - 1 пара, 305 XI
+> 09.12 (Понеділок) - 1 пара, 305 XI.
+> 10.12 (Вівторок) - 1 пара, 301 XI.
+> 11.12 (Середа) - 1 пара, 305 XI.
+> 12.12 (Четвер) - 1 пара, 305 XI.
 
 ## [Lab_1: Здобуття навиків роботи з системою версіонування коду GitHub.](https://github.com/BobasB/devops_course/tree/master/lab1) 
 > Deadline: Sunday 29.09.2019
