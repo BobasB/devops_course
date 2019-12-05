@@ -8,3 +8,6 @@
 
 4. [Laba #4](https://github.com/Oreostar/AOA/tree/master/lab_4)
 
+5. [Laba #5](https://github.com/Oreostar/AOA/tree/master/lab_5)
+
+6. [Laba #6](https://github.com/Oreostar/AOA/tree/master/lab_6)
