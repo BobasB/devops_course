@@ -8,3 +8,5 @@
 ---
 [Lab 5](https://github.com/MrZara/Labs/tree/master/Laba5)
 ---
+[Lab 6](https://github.com/MrZara/Labs/tree/master/Laba6)
+---
