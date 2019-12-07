@@ -1,1 +1,6 @@
 * [ЛАБОРАТОРНА № 1](https://github.com/kramsayu/yurii/tree/master/lab_1)
+* [ЛАБОРАТОРНА № 2](https://github.com/kramsayu/yurii/tree/master/lab_2)
+* [ЛАБОРАТОРНА № 3](https://github.com/kramsayu/yurii/tree/master/lab_3)
+* [ЛАБОРАТОРНА № 4](https://github.com/kramsayu/yurii/tree/master/lab_4)
+* [ЛАБОРАТОРНА № 5](https://github.com/kramsayu/yurii/tree/master/lab_5)
+* [ЛАБОРАТОРНА № 6](https://github.com/kramsayu/yurii/tree/master/lab_6)
