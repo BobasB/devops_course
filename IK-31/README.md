@@ -2,19 +2,19 @@
 
 | Прізвище    | :one: | :two:| :three:| :four:| :five:| :six:| 
 | :---------- |:-----:| :---:| :-----:| :----:| :----:| :---:|
-| Taras       |:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
-| Pastukh     |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
-| Hashchenko  |:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:| 
-| Vrublevskyi |:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
-| Makar       |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|
-| Bobyk       |:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|
-| Kuksenko    |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
-| Shevtsiv    |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
-| Kravchuk    |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
-| Ruzhyrskyi  |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
-| Kohut       |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
-| Korchovskiy |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
-| Lesiuk      |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
+| Taras       |:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|
+| Pastukh     |:white_check_mark: / :five:|:white_check_mark: / :four:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|
+| Hashchenko  |:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:| 
+| Vrublevskyi |:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|
+| Makar       |:white_check_mark: / :five:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|
+| Bobyk       |:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :x:|
+| Kuksenko    |:white_check_mark: / :five:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|
+| Shevtsiv    |:white_check_mark: / :five:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|
+| Kravchuk    |:white_check_mark: / :five:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|
+| Ruzhyrskyi  |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|
+| Kohut       |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|
+| Korchovskiy |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|
+| Lesiuk      |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|
 
 ---
 ## Пояснення
