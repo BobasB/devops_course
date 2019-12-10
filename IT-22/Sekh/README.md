@@ -4,3 +4,4 @@
 3. [Lab_3](https://github.com/NotNull0/devops_course-labs/tree/master/lab3)
 4. [Lab_4](https://github.com/NotNull0/devops_course-labs/tree/master/lab4)
 5. [Lab_5](https://github.com/NotNull0/devops_course-labs/tree/master/lab5)
+6. [Lab_6](https://github.com/NotNull0/devops_course-labs/tree/master/lab6)
