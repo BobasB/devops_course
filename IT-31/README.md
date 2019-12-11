@@ -15,7 +15,7 @@
 | Dyachenko    |:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|
 | Demidov      |:white_check_mark: / :five:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|
 | Nalyvaiko    |:white_check_mark: / :five:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|
-| Skorinovych  |:white_check_mark: / :four:|:white_check_mark: / :four:|:white_check_mark: / :x:|:white_check_mark: / :five:|
+| Skorinovych  |:white_check_mark: / :four:|:white_check_mark: / :four:|:white_check_mark: / :three:|:white_check_mark: / :five:|
 | Anisimov     |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|
 | Benio        |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|
 | Koretskyi    |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|
