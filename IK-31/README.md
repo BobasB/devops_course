@@ -10,7 +10,7 @@
 | Bobyk       |:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :x:|
 | Kuksenko    |:white_check_mark: / :five:|:white_check_mark: / :four:|:white_check_mark: / :four:|:white_check_mark: / :four:|:white_check_mark: / :five:|:white_check_mark: / :five:|
 | Shevtsiv    |:white_check_mark: / :five:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|
-| Kravchuk    |:white_check_mark: / :five:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|
+| Kravchuk    |:white_check_mark: / :five:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|
 | Ruzhyrskyi  |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|
 | Kohut       |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|
 | Korchovskiy |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|
