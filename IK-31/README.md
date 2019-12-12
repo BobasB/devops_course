@@ -18,7 +18,7 @@
 | Oksentiuk   |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|
 | Kozyar      |:white_check_mark: / :x:|
 | Zdebeliak   |:white_check_mark: / :x:|
-| Havrylchuk  |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|
+| Havrylchuk  |:white_check_mark: / :five:|:white_check_mark: / :four:|:white_check_mark: / :three:|:white_check_mark: / :one:|:white_check_mark: / :x:|:white_check_mark: / :x:|
 
 ---
 ## Пояснення
