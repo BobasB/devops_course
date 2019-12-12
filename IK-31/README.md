@@ -18,7 +18,6 @@
 | Oksentiuk   |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|
 | Kozyar      |:white_check_mark: / :x:|
 | Zdebeliak   |:white_check_mark: / :x:|
-| Novosad     |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :four:|
 
 ---
 ## Пояснення
