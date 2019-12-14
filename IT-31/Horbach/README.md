@@ -1,0 +1,6 @@
+# [LABORATORNA 1](https://github.com/orko1998/labs/tree/master/lab1)
+# [LABORATORNA 2](https://github.com/orko1998/labs/tree/master/lab2)
+# [LABORATORNA 3](https://github.com/orko1998/labs/tree/master/lab3)
+# [LABORATORNA 4](https://github.com/orko1998/labs/tree/master/lab4)
+# [LABORATORNA 5](https://github.com/orko1998/labs/tree/master/lab5)
+# [LABORATORNA 6](https://github.com/orko1998/labs/tree/master/lab6)
