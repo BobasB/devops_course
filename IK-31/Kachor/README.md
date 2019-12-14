@@ -1,1 +1,1 @@
-[Lab1](https://github.com/IK-31-Kachor/star/tree/master/Lab1)
+1. [Lab1](https://github.com/IK-31-Kachor/star/tree/master/Lab1)
