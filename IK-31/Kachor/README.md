@@ -1,0 +1,1 @@
+[Lab1](https://github.com/IK-31-Kachor/star/tree/master/Lab1)
