@@ -4,3 +4,4 @@
 #[Лабораторна 3](https://github.com/kurtic/lab_3)  
 #[Лабораторна 4](https://github.com/kurtic/lab_4)  
 #[Лабораторна 5](https://github.com/kurtic/lab_5)  
+#[Лабораторна 6](https://github.com/kurtic/lab_6)  

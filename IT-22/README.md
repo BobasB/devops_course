@@ -2,14 +2,15 @@
 
 | Прізвище  | :one:| :two:| :three:| :four:| :five:| :six:| 
 | :-------  |:----:| :---:| :-----:| :----:| :----:| :---:|
-| Sekh      |:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|
-| Danilyak  |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|
+| Sekh      |:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
+| Danilyak  |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
 | Bukhniy   |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|
-| Balian    |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|
-| Yunko     |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|
-| Krenta    |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
-| Matviychuk|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|
-| Pylypchuk |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|
+| Balian    |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
+| Yunko     |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|
+| Krenta    |:white_check_mark: / :white_check_mark:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
+| Matviychuk|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
+| Pylypchuk |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
+| Yakovliev |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|
 
 
 ---

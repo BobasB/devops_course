@@ -6,3 +6,5 @@
 3. [Lab_3](https://github.com/Andriy9817/devlabs/tree/master/lab_3)
 
 4. [Lab_4](https://github.com/Andriy9817/devlabs/tree/master/lab_4)
+
+5. [Lab_5](https://github.com/Andriy9817/devlabs/tree/master/lab_5)
