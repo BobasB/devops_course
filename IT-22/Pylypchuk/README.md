@@ -4,4 +4,4 @@
 3. [Лабораторна №3](https://github.com/airdy/devopsLabs/tree/master/lab_3)
 4. [Лабораторна №4](https://github.com/airdy/devopsLabs/tree/master/lab_4)
 5. [Лабораторна №5](https://github.com/airdy/devopsLabs/tree/master/lab_5)
-5. [Лабораторна №6](https://github.com/airdy/devopsLabs/tree/master/lab_6)
+6. [Лабораторна №6](https://github.com/airdy/devopsLabs/tree/master/lab_6)
