@@ -11,6 +11,7 @@
 | Matviychuk|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
 | Pylypchuk |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
 | Yakovliev |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :white_check_mark:|:white_check_mark: / :white_check_mark:|
+| Gorishniy |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|
 
 
 ---
