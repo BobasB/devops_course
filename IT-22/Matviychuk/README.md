@@ -4,3 +4,4 @@
 1. [Лабораторна №3](https://github.com/Bloodkey/devlabs/tree/master/lab3)
 1. [Лабораторна №4](https://github.com/Bloodkey/devlabs/tree/master/lab4)
 1. [Лабораторна №5](https://github.com/Bloodkey/devlabs/tree/master/lab5)
+1. [Лабораторна №6](https://github.com/Bloodkey/devlabs/tree/master/lab6)
