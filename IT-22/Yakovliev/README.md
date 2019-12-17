@@ -4,3 +4,4 @@
 3. [Lab 3](https://github.com/GamTdz/devLabs/tree/master/lab3)
 4. [Lab 4](https://github.com/GamTdz/devLabs/tree/master/lab4)
 5. [Lab 5](https://github.com/GamTdz/devLabs/tree/master/lab5)
+6. [Lab 6](https://github.com/GamTdz/devLabs/tree/master/lab6)
