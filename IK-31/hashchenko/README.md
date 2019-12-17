@@ -1,1 +1,6 @@
-[Lab_1](https://github.com/IK-31-hashchenko/IK_31_hashchenko/tree/master/Lab_1)
+1. [Lab_1](https://github.com/IK-31-hashchenko/IK_31_hashchenko/tree/master/Lab_1)
+2. [Lab 2](https://github.com/IK-31-hashchenko/IK_31_hashchenko/tree/master/Lab_2)
+3. [Lab 3](https://github.com/IK-31-hashchenko/IK_31_hashchenko/tree/Branch_one/Lab_3)
+4. [Lab 4](https://github.com/IK-31-hashchenko/IK_31_hashchenko/tree/master/Lab_4)
+5. [Lab 5](https://github.com/IK-31-hashchenko/IK_31_hashchenko/tree/master/Lab_5)
+6. [Lab 6](https://github.com/IK-31-hashchenko/IK_31_hashchenko/tree/master/Lab_6)

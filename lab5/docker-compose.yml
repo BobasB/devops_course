@@ -1,0 +1,45 @@
+version: '3.7'
+services:
+  hits:
+    build:
+      context: .
+      dockerfile: Dockerfile.app
+    image: bobas/lab4-examples:compose-app
+    container_name: app
+    depends_on:
+      - redis
+    networks:
+      - public
+      - secret
+    ports:
+      - 80:5000
+    volumes:
+      - hits-logs:/hits/logs
+  tests:
+    build:
+      context: .
+      dockerfile: Dockerfile.tests
+    image: bobas/lab4-examples:compose-tests
+    container_name: tests
+    depends_on:
+      - hits
+    networks:
+      - public
+  redis:
+    image: redis:alpine
+    container_name: redis
+    volumes:
+      - redis-data:/data
+    networks:
+      - secret
+volumes:
+  redis-data:
+    driver: local
+  hits-logs:
+    driver: local
+
+networks:
+  secret:
+    driver: bridge
+  public:
+    driver: bridge
