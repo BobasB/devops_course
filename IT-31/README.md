@@ -2,7 +2,7 @@
 | Прізвище     | :one:| :two:| :three:| :four:| :five:| :six:| 
 | :----------- | :---:| :---:| :-----:| :----:| :----:| :---:|
 | Pavlyshynets |:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|
-| Hrytsyk      |:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|
+| Hrytsyk      |:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :four:|
 | Lomovatskyi  |:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|
 | Domalchuk    |:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|
 | Shynkler     |:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|:white_check_mark: / :five:|
@@ -21,6 +21,8 @@
 | Koretskyi    |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|
 | Sayevich     |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|:white_check_mark: / :five:|
 | Novosad      |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :four:|
+| Spurza       |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :three:|
+| Horbach      |:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :x:|:white_check_mark: / :five:|
 
 ---
 ## Пояснення
