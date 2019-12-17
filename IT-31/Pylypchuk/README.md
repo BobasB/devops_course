@@ -1,6 +1,6 @@
-Labs:
-
-1. Lab_1: https://github.com/lionengine/fantastic-winner
-2. Lab_2: https://github.com/lionengine/fantastic-winner/tree/master/lab_2
-3. Lab_3: https://github.com/lionengine/fantastic-winner/tree/master/lab_3
-4. Lab_4: https://github.com/lionengine/fantastic-winner/tree/master/lab_4
+## [LAB_1](https://github.com/lionengine/fantastic-winner/tree/master/lab_1)
+## [LAB_2](https://github.com/lionengine/fantastic-winner/tree/master/lab_2)
+## [LAB_3](https://github.com/lionengine/fantastic-winner/tree/master/lab_3)
+## [LAB_4](https://github.com/lionengine/fantastic-winner/tree/master/lab_4)
+## [LAB_5](https://github.com/lionengine/fantastic-winner/tree/master/lab_5)
+## [LAB_6](https://github.com/lionengine/fantastic-winner/tree/master/lab_6)
