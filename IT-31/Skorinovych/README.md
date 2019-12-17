@@ -3,3 +3,4 @@
 ## [Lab_3](https://github.com/skorik-19/skorinovych/tree/master/Lab_3)
 ## [Lab_4](https://github.com/skorik-19/skorinovych/tree/master/Lab_4)
 ## [Lab_5](https://github.com/skorik-19/skorinovych/tree/master/Lab_5)
+## [Lab_6](https://github.com/skorik-19/skorinovych/tree/master/Lab_6)
