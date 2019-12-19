@@ -2,3 +2,4 @@
 2. [Lab_2](https://github.com/IK-31-zdebeliak/IK_31_zdebeljak/tree/master/Lab_2)
 3. [Lab_3](https://github.com/IK-31-zdebeliak/IK_31_zdebeljak/tree/master/Lab_3)
 4. [Lab_4](https://github.com/IK-31-zdebeliak/IK_31_zdebeljak/tree/master/Lab_4)
+5. [Lab_5](https://github.com/IK-31-zdebeliak/IK_31_zdebeljak/tree/master/Lab_5)
