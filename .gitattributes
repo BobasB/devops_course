@@ -1,2 +1,2 @@
 secretfile filter=git-crypt diff=git-crypt
-2019/* filter=git-crypt diff=git-crypt
+2019/** filter=git-crypt diff=git-crypt
