@@ -20,7 +20,7 @@ All course curriculums will be in Ukrainian language.
 ## [Lab_6: Автоматизація за допомогою CI/CD серверів.](https://github.com/BobasB/devops_course/tree/master/lab6)
 > Deadline:
 ---
-##№ Як робити pull request при здачі лабораторної!
+### Як робити pull request при здачі лабораторної!
 :bangbang: Створюючи пул реквест вказуйте: Номер роботи, Прізвище ІП, група.
 
 :bangbang: Читайте коменти у пул реквестах. Я відписую чи лабораторна зарахована чи ні (GitHub повинен відправляти е-мейли про активність, читайте їх).
