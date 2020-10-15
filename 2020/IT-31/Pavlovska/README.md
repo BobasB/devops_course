@@ -1,6 +1,6 @@
 Lab_1
 ---
-Посилання на [репозиторій](https://github.com/YarynaPavlovska00/Information-systems-programming-technologies/commits?author=YarynaPavlovska00)
+Посилання на [репозиторій](https://github.com/YarynaPavlovska00/Information-systems-programming-technologies)
 ---
 ### Таблиця з посиланнями
 |№ Лабораторної|Посилання|
