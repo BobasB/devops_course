@@ -3,6 +3,9 @@ This course is for training DevOps engineering.
 All course curriculums will be in Ukrainian language.
 ---
 ## [Lab_1: Здобуття навиків роботи з системою версіонування коду GitHub.](https://github.com/BobasB/devops_course/tree/master/lab1) 
+> Deadline: 30.10.2020
+---
+## [Lab_2a: Основи роботи з Python.](https://github.com/BobasB/devops_course/tree/master/lab2a)
 > Deadline: 
 ---
 ## [Lab_2: Автоматизація. Знайомство з CI/CD.](https://github.com/BobasB/devops_course/tree/master/lab2)
@@ -20,15 +23,18 @@ All course curriculums will be in Ukrainian language.
 ## [Lab_6: Автоматизація за допомогою CI/CD серверів.](https://github.com/BobasB/devops_course/tree/master/lab6)
 > Deadline:
 ---
-##№ Як робити pull request при здачі лабораторної!
+### Як робити pull request при здачі лабораторної!
 :bangbang: Створюючи пул реквест вказуйте: Номер роботи, Прізвище ІП, група.
+
+:bangbang: Один пул-реквест - Одна лабораторна робота, будь-ласка не змішуйте все в один.
 
 :bangbang: Читайте коменти у пул реквестах. Я відписую чи лабораторна зарахована чи ні (GitHub повинен відправляти е-мейли про активність, читайте їх).
 
 :bangbang: У папці Вашої групи є табличка з результатами.
 
 ---
-##№ Common mistakes
+### Common mistakes
 - виконуючи лабораторну - номеруйте пункти які Ви виконуєте у Вашому README.md;
 - використовуйте форматування Markdown коли заповнюєте README.md;
 - у Ваших комітах пишіть повідомлення: Номер роботи - що зроблено в коміті;
+___
