@@ -2,9 +2,9 @@
 
 | Прізвище    | :one: | :two: :a: | :two: | :three: | :four: | :five: | :six: |
 | :---------- |:-------------------------------------:| :-------------------------------------:| :-------------------------------------:| :-------------------------------------:| :-------------------------------------:| :-------------------------------------:| :-------------------------------------:|
-| Ковальчук   | :white_check_mark:/:white_check_mark: | | | | | |
+| Ковальчук   | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | |
 | Лоневський  | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | | | |
-| Оніщенко    | :white_check_mark:/:white_check_mark: | | | | | |
+| Оніщенко    | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | | |
 | Соляр       | :white_check_mark:/:white_check_mark: | | | | | |
 | Гайдар      | :white_check_mark:/:white_check_mark: | | | | | |
 | Мощук       | :white_check_mark:/:white_check_mark: | | | | | |
@@ -12,6 +12,9 @@
 | Спринський  | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | | |
 | Бідник      | :white_check_mark:/:white_check_mark: | | | | | |
 | Бровчук     | :white_check_mark:/:white_check_mark: | | | | | |
+| Данило      | :white_check_mark:/:white_check_mark: | | | | | |
+| Бешлей      | :white_check_mark:/:white_check_mark: | | | | | |
+
 
 ---
 # IТ-23 group
@@ -21,7 +24,9 @@
 | Черевань    | :white_check_mark:/                   | :white_check_mark:/                   | | | | |
 | Піховський  | :white_check_mark:/                   | | | | | |
 | Проць       | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | | | |
-| Добоній     | :white_check_mark:/                   | :white_check_mark:/                   | | | | |
+| Добоній     | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | | | |
+| Мигляс      | :white_check_mark:/                   | | | | | |
+| Туряниця    | :white_check_mark:/                   | | | | | |
 
 ---
 # IT-31 group
@@ -40,6 +45,10 @@
 | Баран       | :white_check_mark:/:white_check_mark: | | | | | |
 | Макогін     | :white_check_mark:/:white_check_mark: | | | | | |
 | Липовий     | :white_check_mark:/:white_check_mark: | | | | | |
+| Камінський  | :white_check_mark:/:white_check_mark: | | | | | |
+| Дорош       | :white_check_mark:/                   | | | | | |
+| Петрущак    | :white_check_mark:/:white_check_mark: | | | | | |
+| Фіцак       | :white_check_mark:/:white_check_mark: | | | | | |
 
 ---
 ## Пояснення
