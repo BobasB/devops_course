@@ -16,6 +16,7 @@
 | Бешлей      | :white_check_mark:/:white_check_mark: | | | | | |
 | Балаж       | :white_check_mark:/:white_check_mark: | | | | | |
 | Гут         | :white_check_mark:/:white_check_mark: | | | | | |
+| Височанська | :white_check_mark:/:white_check_mark: | | | | | |
 
 
 ---
