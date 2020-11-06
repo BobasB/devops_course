@@ -8,3 +8,4 @@
 |№ Лабораторної|Посилання|
 |---|---|
 |1|[LAB1](https://github.com/YatsynychRoman/devops_course/tree/master/Lab%201)|
+|2|[LAB2](https://github.com/YatsynychRoman/devops_course/tree/master/Lab%202)|
