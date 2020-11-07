@@ -1,0 +1,1 @@
+1. [Лабораторна робота №1](https://github.com/katyasymchuk/Lab/tree/main/lab1)
