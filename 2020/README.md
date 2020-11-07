@@ -17,6 +17,10 @@
 | Балаж       | :white_check_mark:/:white_check_mark: | | | | | |
 | Гут         | :white_check_mark:/:white_check_mark: | | | | | |
 | Височанська | :white_check_mark:/:white_check_mark: | | | | | |
+| Киселиця    | :white_check_mark:/:white_check_mark: | | | | | |
+| Сав'як      | :white_check_mark:/:white_check_mark: | | | | | |
+| Сугерей     | :white_check_mark:/:white_check_mark: | | | | | |
+| Белла       | :white_check_mark:/:white_check_mark: | | | | | |
 
 
 ---
@@ -36,15 +40,15 @@
 
 | Прізвище    | :one: | :two: :a: | :two: | :three: | :four: | :five: | :six: |
 | :---------- |:-------------------------------------:| :-------------------------------------:| :-------------------------------------:| :-------------------------------------:| :-------------------------------------:| :-------------------------------------:| :-------------------------------------:|
-| Сабітов     | :white_check_mark:/:white_check_mark: | | | | | |
-| Яцинич      | :white_check_mark:/:white_check_mark: | | | | | |
+| Сабітов     | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | | | |
+| Яцинич      | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | | |
 | Олійник     | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | | |
-| Бельтюков   | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | | | |
-| Павловська  | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | | | |
+| Бельтюков   | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | | |
+| Павловська  | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | | |
 | Кутянська   | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | | | |
 | Філь        | :white_check_mark:/:white_check_mark: | | | | | |
 | Онуфрак     | :white_check_mark:/:white_check_mark: | | | | | |
-| Волощук     | :white_check_mark:/:white_check_mark: | | | | | |
+| Волощук     | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | | | |
 | Баран       | :white_check_mark:/:white_check_mark: | | | | | |
 | Макогін     | :white_check_mark:/:white_check_mark: | | | | | |
 | Липовий     | :white_check_mark:/:white_check_mark: | | | | | |
