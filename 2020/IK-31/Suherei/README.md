@@ -1,0 +1,1 @@
+**Link to lab** [Link](https://github.com/Victor123135/labs/tree/main/lab1)

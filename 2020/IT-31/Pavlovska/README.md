@@ -6,4 +6,5 @@ Lab_1
 |№ Лабораторної|Посилання|
 |---|---|
 |1|[LAB1](https://github.com/YarynaPavlovska00/Information-systems-programming-technologies/tree/main/Lab_1)|
-|2|[LAB2a](https://github.com/YarynaPavlovska00/Information-systems-programming-technologies/tree/main/Lab_2a)|
+|2a|[LAB2a](https://github.com/YarynaPavlovska00/Information-systems-programming-technologies/tree/main/Lab_2a)|
+|2|[LAB2](https://github.com/YarynaPavlovska00/Information-systems-programming-technologies/tree/main/Lab_2)|
