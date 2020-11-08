@@ -8,5 +8,4 @@
 |№ Лабораторної|Посилання|
 |---|---|
 |1|[LAB1](https://github.com/Illya-Mykola/TPIS/tree/master/Lab%201)|
-|---|---|
-|1|[LAB2a](https://github.com/Illya-Mykola/TPIS/tree/master/Lab%202a)|
+|2|[LAB2a](https://github.com/Illya-Mykola/TPIS/tree/master/Lab%202a)|
