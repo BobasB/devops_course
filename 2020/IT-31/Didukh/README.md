@@ -1,7 +1,7 @@
 # Laboratory works
 ---
 
-Посилання на [репозиторій](https://github.com/Ciel-Didux/devops_course)
+Посилання на [репозиторій](https://github.com/Ciel-Didux/TPIS)
 
 ---
 # Таблиця з посиланнями
@@ -9,3 +9,4 @@
 |---|---|
 |1|[LAB1](https://github.com/Ciel-Didux/TPIS/tree/main/LAB_1)|
 |2|[LAB2a](https://github.com/Ciel-Didux/TPIS/tree/main/LAB_2a)|
+|3|[LAB2](https://github.com/Ciel-Didux/TPIS/tree/main/LAB_2)|
