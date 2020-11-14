@@ -3,13 +3,13 @@ This course is for training DevOps engineering.
 All course curriculums will be in Ukrainian language.
 ---
 ## [Lab_1: Здобуття навиків роботи з системою версіонування коду GitHub.](https://github.com/BobasB/devops_course/tree/master/lab1) 
-> Deadline: 30.10.2020
+> Deadline: 01.11.2020
 ---
 ## [Lab_2a: Основи роботи з Python.](https://github.com/BobasB/devops_course/tree/master/lab2a)
-> Deadline: 06.11.2020
+> Deadline: 08.11.2020
 ---
 ## [Lab_2: Автоматизація. Знайомство з CI/CD.](https://github.com/BobasB/devops_course/tree/master/lab2)
-> Deadline: 13.11.2020
+> Deadline: 15.11.2020
 ---
 ## [Lab_3: Вступ до моніторингу](https://github.com/BobasB/devops_course/tree/master/lab3)
 > Deadline: 
