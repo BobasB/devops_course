@@ -8,3 +8,6 @@
 |№ Лабораторної|Посилання|
 |---|---|
 |1|[LAB1](https://github.com/bodia1132/Labs/tree/master/lab%201)|
+|2|[LAB2a](https://github.com/bodia1132/Labs/tree/master/lab%202a)|
+
+
