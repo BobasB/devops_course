@@ -22,7 +22,7 @@
 | Сугерей     | :white_check_mark:/:white_check_mark: | | | | | |
 | Белла       | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | | | |
 | Симчук      | :white_check_mark:/:ballot_box_with_check: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | | |
-| Вальчак     | :white_check_mark:/:ballot_box_with_check: | :white_check_mark:/:white_check_mark: | | | | |
+| Вальчак     | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | | | |
 | Федоришин   | :white_check_mark:/ | | | | | |
 
 ---
