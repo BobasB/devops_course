@@ -1,2 +1,3 @@
 1. Lab1 https://github.com/Dmytro32/laboratory1
-2. Lab2a https://github.com/Dmytro32/lab2a
+2. Lab2a https://github.com/Dmytro32/lab2a 
+3. lab2 https://github.com/Dmytro32/lab2
