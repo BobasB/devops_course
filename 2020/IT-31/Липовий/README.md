@@ -1,12 +1,12 @@
 # Laboratory works
 ---
 
-## URL мого GitHub репозиторію:
+## URL РјРѕРіРѕ GitHub СЂРµРїРѕР·РёС‚РѕСЂС–СЋ:
 ####https://github.com/dimalipovoy/tpis
 
 ---
-# Таблиця з посиланнями
-|№ Лабораторної|Посилання|
+# РўР°Р±Р»РёС†СЏ Р· РїРѕСЃРёР»Р°РЅРЅСЏРјРё
+|в„– Р›Р°Р±РѕСЂР°С‚РѕСЂРЅРѕС—|РџРѕСЃРёР»Р°РЅРЅСЏ|
 |---|---|
 |1|[LAB1](https://github.com/dimalipovoy/tpis/tree/master/lab1)|
 |2|[LAB2a](https://github.com/dimalipovoy/tpis/tree/master/lab%202a)|
