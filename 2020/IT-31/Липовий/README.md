@@ -10,3 +10,4 @@
 |---|---|
 |1|[LAB1](https://github.com/dimalipovoy/tpis/tree/master/lab1)|
 |2|[LAB2a](https://github.com/dimalipovoy/tpis/tree/master/lab%202a)|
+|3|[LAB2](https://github.com/dimalipovoy/tpis/tree/master/lab%202)|
