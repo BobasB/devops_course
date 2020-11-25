@@ -12,7 +12,7 @@ All course curriculums will be in Ukrainian language.
 > Deadline: 15.11.2020
 ---
 ## [Lab_3: Вступ до моніторингу](https://github.com/BobasB/devops_course/tree/master/lab3)
-> Deadline: 
+> Deadline: 29.11.2020
 ---
 ## [Lab_4: Робота з Docker](https://github.com/BobasB/devops_course/tree/master/lab4)
 > Deadline: 
