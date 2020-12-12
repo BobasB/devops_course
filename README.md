@@ -15,13 +15,13 @@ All course curriculums will be in Ukrainian language.
 > Deadline: 29.11.2020
 ---
 ## [Lab_4: Робота з Docker](https://github.com/BobasB/devops_course/tree/master/lab4)
-> Deadline: 
+> Deadline: 27.12.2020
 ---
 ## [Lab_5: Автоматизація за допомогою Makefile VS Docker Compose](https://github.com/BobasB/devops_course/tree/master/lab5)
-> Deadline: 
+> Deadline: 18.01.2021 (кінець семестру)
 ---
 ## [Lab_6: Автоматизація за допомогою CI/CD серверів.](https://github.com/BobasB/devops_course/tree/master/lab6)
-> Deadline:
+> Deadline: 18.01.2021 (кінець семестру)
 ---
 ### Як робити pull request при здачі лабораторної!
 :bangbang: Створюючи пул реквест вказуйте: Номер роботи, Прізвище ІП, група.
