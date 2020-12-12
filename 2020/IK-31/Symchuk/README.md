@@ -2,3 +2,4 @@
 2. [Лабораторна робота №2a](https://github.com/katyasymchuk/Lab/tree/main/lab2a)
 3. [Лабораторна робота №2](https://github.com/katyasymchuk/Lab/tree/main/lab2)
 4. [Лабораторна робота №3](https://github.com/katyasymchuk/Lab/tree/main/lab3)
+5. [Лабораторна робота №4](https://github.com/katyasymchuk/Lab/tree/main/lab4)
