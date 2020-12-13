@@ -65,7 +65,8 @@
 | Волошко     | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | | |
 | Павлюк      | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | | |
 | Карпа       | :white_check_mark:/ | | | :white_check_mark:/:white_check_mark: | | |
-| Сорока      | :white_check_mark:/ | | | :white_check_mark:/:white_check_mark: | | |
+| Сорока      | :white_check_mark:/ | | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
+| Дюк         | | | | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | |
 
 ---
 ## Пояснення
