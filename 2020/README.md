@@ -37,7 +37,6 @@
 | Мигляс      | :white_check_mark:/                   | | | | | |
 | Туряниця    | :white_check_mark:/                   | | | | | |
 | Назарко     | :white_check_mark:/                   | | | | | |
-| Сорока      | :white_check_mark:/                   | | | :white_check_mark:/ | | |
 
 ---
 # IT-31 group
@@ -66,7 +65,7 @@
 | Волошко     | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | | |
 | Павлюк      | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | | |
 | Карпа       | :white_check_mark:/ | | | :white_check_mark:/:white_check_mark: | | |
-
+| Сорока      | :white_check_mark:/ | | | :white_check_mark:/:white_check_mark: | | |
 
 ---
 ## Пояснення
