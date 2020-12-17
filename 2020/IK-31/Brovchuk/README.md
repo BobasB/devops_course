@@ -1,1 +1,7 @@
-https://github.com/ivannabrovchuk1/labka1/blob/master/lab1/README.md
+
+№  | LINK
+---|-----------------------------------------------------------
+1  | https://github.com/ivannabrovchuk1/labka1/tree/master/lab1
+2a | https://github.com/ivannabrovchuk1/labka1/tree/master/lab2a
+2  | https://github.com/ivannabrovchuk1/labka1/tree/master/lab2
+3  | https://github.com/ivannabrovchuk1/labka1/tree/master/lab3
