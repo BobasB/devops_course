@@ -1,4 +1,4 @@
-[GitHub](https://github.com/vasylfil)
+[GitHub](https://github.com/VasylFil/lbs)
 
 | Lab | Link    |
 |:---:|---------|
