@@ -11,3 +11,4 @@
 |2|[LAB_2a](https://github.com/dp-pavliuk/labs/tree/master/lab2_a)|
 |3|[LAB_2](https://github.com/dp-pavliuk/labs/tree/master/lab_2)|
 |4|[LAB_3](https://github.com/dp-pavliuk/labs/tree/master/lab_3)|
+|5|[LAB_4](https://github.com/dp-pavliuk/labs/tree/master/lab_4)|
