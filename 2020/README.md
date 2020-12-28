@@ -52,7 +52,7 @@
 | Філь        | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Онуфрак     | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Волощук     | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
-| Баран       | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/ | |
+| Баран       | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
 | Макогін     | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | |
 | Липовий     | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | |
 | Камінський  | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
