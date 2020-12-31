@@ -8,7 +8,7 @@
 | Соляр       | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
 | Гайдар      | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
 | Мощук       | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
-| Качоровський| :white_check_mark:/:white_check_mark: | | | | | |
+| Качоровський| :white_check_mark:/:white_check_mark: | :white_check_mark:/ | | | | |
 | Спринський  | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
 | Бідник      | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
 | Бровчук     | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | |
@@ -64,7 +64,7 @@
 | Когуч       | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
 | Волошко     | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
 | Павлюк      | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
-| Карпа       | :white_check_mark:/ | :white_check_mark:/ | | :white_check_mark:/:white_check_mark: | | |
+| Карпа       | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
 | Сорока      | :white_check_mark:/ | | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
 | Дюк         | | | | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | |
 | Гнатюк      | :white_check_mark:/ | :white_check_mark:/ | | | | |
