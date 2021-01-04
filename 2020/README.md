@@ -14,10 +14,10 @@
 | Бровчук     | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | |
 | Данило      | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
 | Бешлей      | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
-| Балаж       | :white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | |
+| Балаж       | :white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
 | Гут         | :white_check_mark:/:white_check_mark: | | | | | |
 | Височанська | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/ | | | |
-| Киселиця    | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | | :white_check_mark:/:white_check_mark: | | |
+| Киселиця    | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | | |
 | Сав'як      | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark:| :white_check_mark:/:white_check_mark: | |
 | Сугерей     | :white_check_mark:/:white_check_mark: | | | | | |
 | Белла       | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
@@ -31,7 +31,7 @@
 | Прізвище    | :one: | :two: :a: | :two: | :three: | :four: | :five: | :six: |
 | :---------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | Черевань    | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | | |
-| Піховський  | :white_check_mark:/                   | :white_check_mark:/                   | | | | |
+| Піховський  | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | | | |
 | Проць       | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | | | |
 | Добоній     | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | |
 | Мигляс      | :white_check_mark:/                   | | | | | |
