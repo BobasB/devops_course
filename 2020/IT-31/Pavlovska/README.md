@@ -10,3 +10,4 @@ Lab_1
 |2|[LAB2](https://github.com/YarynaPavlovska00/Information-systems-programming-technologies/tree/main/Lab_2)|
 |3|[LAB3](https://github.com/YarynaPavlovska00/Information-systems-programming-technologies/tree/main/Lab_3)|
 |4|[LAB4](https://github.com/YarynaPavlovska00/Information-systems-programming-technologies/tree/main/Lab_4)|
+|5|[LAB5](https://github.com/YarynaPavlovska00/Information-systems-programming-technologies/tree/main/Lab_5)|
