@@ -9,3 +9,4 @@
 | Lab2      | https://github.com/Yur4ik1234/My_rep/tree/main/Lab2 |
 | Lab3      | https://github.com/Yur4ik1234/My_rep/tree/main/lab3 |
 | Lab4      |https://github.com/Yur4ik1234/My_rep/tree/main/lab4  |  
+| Lab5      |https://github.com/Yur4ik1234/My_rep/tree/main/Lab5  |  
