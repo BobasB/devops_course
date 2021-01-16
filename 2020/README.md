@@ -68,7 +68,7 @@
 | Карпа       | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
 | Сорока      | :white_check_mark:/ | | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
 | Дюк         | | | | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | |
-| Гнатюк      | :white_check_mark:/ | :white_check_mark:/ | | | | |
+| Гнатюк      | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 
 ---
 ## Пояснення
