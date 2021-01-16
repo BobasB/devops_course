@@ -5,5 +5,5 @@
 |  2 | https://github.com/Di-Danylo/cautious-spoon/tree/main/lab2 |
 | 3  | https://github.com/Di-Danylo/cautious-spoon/tree/main/lab3 |
 | 4  | https://github.com/Di-Danylo/cautious-spoon/tree/main/lab4 |
-| 5  | --- |
+| 5  | https://github.com/Di-Danylo/cautious-spoon/tree/main/lab5 |
 | 6  | --- |
