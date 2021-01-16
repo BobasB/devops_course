@@ -1,5 +1,3 @@
-lab1
-
 |№ Лабораторна|Посилання|
 |---|---|
 |1|[laba#1]( https://github.com/YaroslavNazarko/newlab/blob/main/README.md)|
