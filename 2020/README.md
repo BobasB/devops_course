@@ -36,7 +36,7 @@
 | Добоній     | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   |
 | Мигляс      | :white_check_mark:/                   | | | | | |
 | Туряниця    | :white_check_mark:/                   | | | | | |
-| Назарко     | :white_check_mark:/                   | white_check_mark:/                    | :white_check_mark:/                   | | | |
+| Назарко     | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | | | |
 | Букартик    | :white_check_mark:/                   | | | | | |
 
 ---
