@@ -6,3 +6,4 @@
 |лаба 3|https://github.com/Trellcko/TechProgInfoSystem/tree/main/lab_3|
 |лаба 4|https://github.com/Trellcko/TechProgInfoSystem/tree/main/lab_4|
 |лаба 5|https://github.com/Trellcko/TechProgInfoSystem/blob/main/lab_5|
+|лаба 6|https://github.com/Trellcko/TechProgInfoSystem/tree/main/lab_6|
