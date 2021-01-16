@@ -6,3 +6,4 @@
 | 2   | https://github.com/denysitis/labupy/tree/main/lab2  |
 | 3   | https://github.com/denysitis/labupy/tree/main/lab3  |
 | 4   | https://github.com/denysitis/labupy/tree/main/lab4  |
+| 5   | https://github.com/denysitis/labupy/tree/main/lab5  |
