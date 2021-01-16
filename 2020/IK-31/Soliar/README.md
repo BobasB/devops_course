@@ -9,3 +9,4 @@
 |  2  | https://github.com/YouraSoliar/Lab1/tree/main/lab_2  |
 |  3  | https://github.com/YouraSoliar/Lab1/tree/main/Lab3   |
 |  4  | https://github.com/YouraSoliar/Lab1/tree/main/Lab4   |
+|  5  | https://github.com/YouraSoliar/Lab1/tree/main/Lab5   |
