@@ -7,4 +7,4 @@
 | 3   | https://github.com/JuliaKut/Programming-technologies/tree/main/Lab_3 |
 | 4   | https://github.com/JuliaKut/Programming-technologies/tree/main/Lab_4 |
 | 5   | https://github.com/JuliaKut/Programming-technologies/tree/main/Lab_5 |
-
+| 6   | https://github.com/JuliaKut/Programming-technologies/tree/main/Lab_6 |
