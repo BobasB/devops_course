@@ -1,5 +1,5 @@
 import unittest
-from app import main
+from app import main, my_good_fun
 
 
 class TestClass(unittest.TestCase):
@@ -24,3 +24,6 @@ class TestClass(unittest.TestCase):
     def test_home_work(self):
         # Ваш захист
         self.assertTrue(True)
+
+    def test_my_fun(self):
+        self.assertEqual(my_good_fun(), "Success")
