@@ -6,3 +6,4 @@
 | Лаб 2             | https://github.com/viktoriiacherevan/lab2a/tree/main/lab_2 |
 | Лаб 3             |https://github.com/viktoriiacherevan/lab2a/tree/main/lab3   |
 | Лаб 4             |https://github.com/viktoriiacherevan/labs/tree/main/lab4   |
+| Лаб 5             |https://github.com/viktoriiacherevan/labs/tree/main/lab5  |
