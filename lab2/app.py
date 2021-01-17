@@ -44,9 +44,15 @@ def home_work():
     pass
 
 
+def my_good_fun():
+    return "success"
+
+
 if __name__ == "__main__":
-    a = "="*40
+    a = "=" * 40
     print(a + "\nРезультат без параметрів: ")
     main()
     print(a + "\nРезультат з правильною URL: ")
     main('http://date.jsontest.com/')
+    a = my_good_fun()
+    print(a)
