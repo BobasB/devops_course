@@ -7,4 +7,5 @@
 |2|[LAB2](https://github.com/mixapaco/devopsLab2)|
 |3|[LAB3](https://github.com/mixapaco/devopsLab1/tree/main/lab3)|
 |4|[LAB4](https://github.com/mixapaco/devopsLab1/tree/main/lab4)|
-
+|5|[LAB5](https://github.com/mixapaco/devopsLab1/tree/main/lab5)|
+|6|[LAB6](https://github.com/mixapaco/devopsLab1/tree/main/lab6)|

@@ -1,5 +1,8 @@
 #Labs
 
-**Lab_1** [клік](https://github.com/brunoauditore/NULP_IK31_Fedoryshyn/) <br>
-**Laba2a** - [клік](https://github.com/brunoauditore/NULP_IK31_Fedoryshyn/tree/main/Laba2a) <br>
-**Laba2** - [клік](https://github.com/brunoauditore/NULP_IK31_Fedoryshyn/tree/main/Laba2) <br>
+**Lab_1** [Link](https://github.com/brunoauditore/NULP_IK31_Fedoryshyn/)
+**Laba2a** - [Link](https://github.com/brunoauditore/NULP_IK31_Fedoryshyn/tree/main/Laba2a)
+**Laba2** - [Link](https://github.com/brunoauditore/NULP_IK31_Fedoryshyn/tree/main/Laba2)
+**Laba3** - [Link](https://github.com/brunoauditore/NULP_IK31_Fedoryshyn/tree/main/Laba3)
+**Laba4** - [Link](https://github.com/brunoauditore/NULP_IK31_Fedoryshyn/tree/main/Laba4)
+
