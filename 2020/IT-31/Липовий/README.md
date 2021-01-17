@@ -13,4 +13,4 @@
 |3|[LAB2](https://github.com/dimalipovoy/tpis/tree/master/lab%202)|
 |4|[LAB3](https://github.com/dimalipovoy/tpis/tree/master/lab%203)|
 |5|[LAB4](https://github.com/dimalipovoy/tpis/tree/master/lab4)|
-
+|6|[LAB5](https://github.com/dimalipovoy/tpis/tree/master/lab5)|
