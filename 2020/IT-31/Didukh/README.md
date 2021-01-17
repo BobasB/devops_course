@@ -12,4 +12,4 @@
 |3|[LAB2](https://github.com/Ciel-Didux/TPIS/tree/main/LAB_2)|
 |4|[LAB3](https://github.com/Ciel-Didux/TPIS/tree/main/LAB_3)|
 |5|[LAB4](https://github.com/Ciel-Didux/TPIS/tree/main/LAB_4)|
-|5|[LAB4](https://github.com/Ciel-Didux/TPIS/tree/main/LAB_5)|
+|6|[LAB5](https://github.com/Ciel-Didux/TPIS/tree/main/LAB_5)|
