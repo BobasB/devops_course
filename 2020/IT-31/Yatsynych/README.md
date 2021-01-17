@@ -13,3 +13,4 @@
 |3|[LAB3](https://github.com/YatsynychRoman/devops_course/tree/master/Lab%203)|
 |4|[LAB4](https://github.com/YatsynychRoman/devops_course/tree/master/Lab%204)|
 |5|[LAB5](https://github.com/YatsynychRoman/devops_course/tree/master/Lab%205)|
+|6|[LAB6](https://github.com/YatsynychRoman/devops_course/tree/master/Lab%206)|
