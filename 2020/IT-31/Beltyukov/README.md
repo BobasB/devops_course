@@ -9,4 +9,5 @@
 |3                    |[LAB3](https://github.com/VyacheslavBeltyukov/DevopsLabs/tree/master/Lab3)|
 |4                    |[LAB4](https://github.com/VyacheslavBeltyukov/DevopsLabs/tree/master/Lab4)|
 |5                    |[LAB5](https://github.com/VyacheslavBeltyukov/DevopsLabs/tree/master/Lab5)|
+|6                    |[LAB6](https://github.com/VyacheslavBeltyukov/DevopsLabs/tree/master/Lab6)|
 
