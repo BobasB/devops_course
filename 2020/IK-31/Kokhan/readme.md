@@ -6,3 +6,5 @@ https://github.com/alcori/Kokhan-IK-31/tree/main/lab2
 https://github.com/alcori/Kokhan-IK-31/tree/main/lab2a
 ## Lab 3
 https://github.com/alcori/Kokhan-IK-31/tree/main/lab3
+## Lab 4
+https://github.com/alcori/Kokhan-IK-31/tree/main/lab4
