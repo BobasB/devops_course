@@ -7,3 +7,4 @@ lab | link
 2   | https://github.com/Olesya05/Lab/tree/main/Lab2
 3   | https://github.com/Olesya05/Lab/tree/main/Lab_3
 4   | https://github.com/Olesya05/Lab/tree/main/Lab_4
+5   | https://github.com/Olesya05/Lab/tree/main/Lab_5
