@@ -6,3 +6,4 @@
 |3|[laba#3](https://github.com/YaroslavNazarko/NazarkoLab/tree/master/lab3)|
 |4|[laba#4](https://github.com/YaroslavNazarko/NazarkoLab/tree/master/lab4)|
 |5|[laba#5](https://github.com/YaroslavNazarko/NazarkoLab/tree/master/lab5)|
+|6|[laba#6](https://github.com/YaroslavNazarko/NazarkoLab/tree/master/lab6)|
