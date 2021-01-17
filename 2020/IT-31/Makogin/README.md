@@ -12,3 +12,4 @@
 |3|[LAB2](https://github.com/Illya-Mykola/TPIS/tree/master/Lab%202)|
 |3|[LAB3](https://github.com/Illya-Mykola/TPIS/tree/master/Lab%203)|
 |4|[LAB4](https://github.com/Illya-Mykola/TPIS/tree/master/Lab%204)|
+|5|[LAB5](https://github.com/Illya-Mykola/TPIS/tree/master/Lab%205)|
