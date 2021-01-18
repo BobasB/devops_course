@@ -8,5 +8,5 @@
 |1|[LAB3](https://github.com/Bro2019f/TASHNICALINFOSYSTEM/tree/master/lab3)|
 |1|[LAB4](https://github.com/Bro2019f/TASHNICALINFOSYSTEM/tree/master/lab4)|
 |1|[LAB5](https://github.com/Bro2019f/TASHNICALINFOSYSTEM/tree/master/lab5)|
-|1|[LAB6](https://github.com/Bro2019f/TASHNICALINFOSYSTEM/tree/master/Lab-1)|
+
 
