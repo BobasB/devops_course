@@ -2,3 +2,5 @@
 [Lab_2a](https://github.com/Victor123135/labs/tree/main/Lab_2a)
 [Lab2](https://github.com/Victor123135/labs/tree/main/Lab2)
 [Lab3](https://github.com/Victor123135/labs/tree/main/Lab3)
+[Lab4](https://github.com/Victor123135/labs/tree/main/Lab4)
+[Lab5](https://github.com/Victor123135/labs/tree/main/Lab5)
