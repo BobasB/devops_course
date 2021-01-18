@@ -42,7 +42,7 @@
 | Туряниця    | :white_check_mark:/                   | | | | | |
 | Назарко     | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   |
 | Букартик    | :white_check_mark:/                   | | | | | |
-| Токар       | :white_check_mark:/                   | | | | | |
+| Токар       | :white_check_mark:/                   | :white_check_mark:/                   | | | | |
 
 ---
 # IT-31 group
@@ -61,7 +61,7 @@
 | Баран       | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Макогін     | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/                   | :white_check_mark:/:white_check_mark: |
 | Липовий     | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/                   | :white_check_mark:/:white_check_mark: |
-| Камінський  | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
+| Камінський  | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Дорош       | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Петрущак    | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Фіцак       | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
