@@ -19,14 +19,14 @@
 | Височанська | |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/  | :white_check_mark:/  | :white_check_mark:/:white_check_mark: |
 | Киселиця    | |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | | :white_check_mark:/:white_check_mark: | |
 | Сав'як      | |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark:| :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
-| Сугерей     | |:white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | | |
+| Сугерей     | |:white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
 | Белла       | |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Симчук      | 45+ |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Вальчак     | |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
 | Федоришин   | |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
 | Кохан       | |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
-| Пршесмицький| |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | | | |
-| Рубець      | |:white_check_mark:/ | :white_check_mark:/ | | | | |
+| Пршесмицький| |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
+| Рубець      | |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
 | Кузів       | |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
 
 ---
