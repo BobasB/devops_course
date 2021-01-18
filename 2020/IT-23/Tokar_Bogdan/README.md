@@ -3,4 +3,3 @@
 |№ Лабораторної|Посилання|
 |---|---|
 |1|[LAB1](https://github.com/BogdanIsLaugh/Dev_lab/tree/main/Lab1)|
-
