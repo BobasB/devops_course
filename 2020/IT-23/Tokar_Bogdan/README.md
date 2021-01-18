@@ -1,5 +1,5 @@
-## Посилання на репозиторій [link](https://github.com/BogdanIsLaugh/Dev_lab.git)
-# Таблиця з посиланнями
-|№ Лабораторної|Посилання|
+## РџРѕСЃРёР»Р°РЅРЅСЏ РЅР° СЂРµРїРѕР·РёС‚РѕСЂС–Р№ [link](https://github.com/BogdanIsLaugh/Dev_lab.git)
+# РўР°Р±Р»РёС†СЏ Р· РїРѕСЃРёР»Р°РЅРЅСЏРјРё
+|в„– Р›Р°Р±РѕСЂР°С‚РѕСЂРЅРѕС—|РџРѕСЃРёР»Р°РЅРЅСЏ|
 |---|---|
 |1|[LAB1](https://github.com/BogdanIsLaugh/Dev_lab/tree/main/Lab1)|
