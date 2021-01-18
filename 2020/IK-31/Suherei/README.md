@@ -1,1 +1,4 @@
-**Link to lab** [Link](https://github.com/Victor123135/labs/tree/main/lab1)
+[Lab1](https://github.com/Victor123135/labs/tree/main/lab1)
+[Lab_2a](https://github.com/Victor123135/labs/tree/main/Lab_2a)
+[Lab2](https://github.com/Victor123135/labs/tree/main/Lab2)
+[Lab3](https://github.com/Victor123135/labs/tree/main/Lab3)
