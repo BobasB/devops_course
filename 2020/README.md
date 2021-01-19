@@ -10,14 +10,14 @@
 | Мощук       | |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Качоровський| |:white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/ | | | |
 | Спринський  | 45+ |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
-| Бідник      | |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
+| Бідник      | 45+ |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Бровчук     | 45+ |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | 
 | Данило      | |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Бешлей      | |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Балаж       | |:white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
-| Гут         | |:white_check_mark:/:white_check_mark: | | | | | |
+| Гут         | |:white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
 | Височанська | |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/  | :white_check_mark:/  | :white_check_mark:/:white_check_mark: |
-| Киселиця    | |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | | :white_check_mark:/:white_check_mark: | |
+| Киселиця    | |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | |
 | Сав'як      | |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark:| :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Сугерей     | |:white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
 | Белла       | |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
@@ -39,10 +39,10 @@
 | Проць       | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   |
 | Добоній     | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   |
 | Мигляс      | :white_check_mark:/                   | :white_check_mark:/                   | | | | |
-| Туряниця    | :white_check_mark:/                   | | | | | |
+| Туряниця    | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   |
 | Назарко     | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   |
-| Букартик    | :white_check_mark:/                   | | | | | |
-| Токар       | :white_check_mark:/                   | :white_check_mark:/                   | | | | |
+| Букартик    | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   |
+| Токар       | :white_check_mark:/                   | :white_check_mark:/                   | :white_check_mark:/                   | | | |
 
 ---
 # IT-31 group
@@ -63,12 +63,12 @@
 | Липовий     | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/                   | :white_check_mark:/:white_check_mark: |
 | Камінський  | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Дорош       | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
-| Петрущак    | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
+| Петрущак    | 45+   | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Фіцак       | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Дідух       | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Уршанський  | | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
-| Когуч       | | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
-| Волошко     | 45 | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
+| Когуч       | | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
+| Волошко     | 45    | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Павлюк      | | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Карпа       | | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Сорока      | | :white_check_mark:/ | | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
