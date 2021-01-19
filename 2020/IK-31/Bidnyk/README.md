@@ -3,3 +3,5 @@
 3. lab2 https://github.com/Dmytro32/lab2
 4. lab3 https://github.com/Dmytro32/lab3
 5. lab4 https://github.com/Dmytro32/lab4
+6. lab4 https://github.com/Dmytro32/lab5
+7. lab4 https://github.com/Dmytro32/lab6
