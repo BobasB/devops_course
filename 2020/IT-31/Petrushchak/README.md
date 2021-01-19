@@ -11,3 +11,4 @@
 |4|[LAB3](https://github.com/KhrystynaPetrushchak/devOps/tree/main/Lab3)|
 |5|[LAB4](https://github.com/KhrystynaPetrushchak/devOps/tree/main/Lab4)|
 |6|[LAB5](https://github.com/KhrystynaPetrushchak/devOps/tree/main/Lab5)|
+|7|[LAB5](https://github.com/KhrystynaPetrushchak/devOps/tree/main/Lab6)|
