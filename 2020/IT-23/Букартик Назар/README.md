@@ -8,3 +8,4 @@
 |4|[LAB3](https://github.com/777git/lab/tree/main/lab3)|
 |5|[LAB4](https://github.com/777git/lab/tree/main/lab4)|
 |6|[LAB5](https://github.com/777git/lab/tree/main/lab5)|
+|7|[LAB6](https://github.com/777git/lab/tree/main/lab6)|
