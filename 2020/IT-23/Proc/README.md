@@ -8,3 +8,4 @@
 |3|[LAB3](https://github.com/su115/ISTP/tree/main/Lab3)|
 |4|[LAB4](https://github.com/su115/ISTP/tree/main/Lab4)|
 |5|[LAB5](https://github.com/su115/ISTP/tree/main/Lab5)|
+|6|[LAB6](https://github.com/su115/ISTP/tree/main/Lab6)|
