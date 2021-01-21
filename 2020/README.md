@@ -22,11 +22,11 @@
 | Сугерей     | 30  |:white_check_mark:/:white_check_mark: | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
 | Белла       | 45  |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Симчук      | 45+ |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
-| Федоришин   | |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
-| Кохан       | |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
-| Пршесмицький| |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
-| Рубець      | |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
-| Кузів       | |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
+| Федоришин   | 26  |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
+| Кохан       | 26  |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
+| Пршесмицький| 26  |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
+| Рубець      | 26  |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
+| Кузів       | 26  |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: |
 | Федькович   | 23 |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ |
 
 ---
@@ -72,9 +72,9 @@
 | Павлюк      | 34    | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Карпа       | 34    | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Вальчак     | |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
-| Сорока      | | :white_check_mark:/ | | | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
+| Сорока      | |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
 | Дюк         | | | | | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | |
-| Гнатюк      | | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
+| Гнатюк      | 35    |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 
 ---
 ## Пояснення
