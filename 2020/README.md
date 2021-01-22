@@ -72,8 +72,8 @@
 | Павлюк      | 34    | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Карпа       | 34    | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 | Вальчак     | |:white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
-| Сорока      | |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | |
-| Дюк         | | | | | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | |
+| Сорока      | 30    |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/ |
+| Дюк         | 26    | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/ |
 | Гнатюк      | 35    |:white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/ | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: | :white_check_mark:/:white_check_mark: |
 
 ---
