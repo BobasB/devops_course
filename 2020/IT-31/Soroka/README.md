@@ -6,3 +6,4 @@
 |  4  | [Lab_4](https://github.com/mariia-soroka/labs/tree/main/lab4)|
 |  2  | [Lab_2](https://github.com/mariia-soroka/labs/tree/main/lab2)|
 |  2a | [Lab_2a](https://github.com/mariia-soroka/labs/tree/main/lab2a)|
+|  5  | [Lab_5](https://github.com/mariia-soroka/labs/tree/main/lab5)| 
