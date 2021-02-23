@@ -3,25 +3,25 @@ This course is for training DevOps engineering.
 All course curriculums will be in Ukrainian language.
 ---
 ## [Lab_1: Здобуття навиків роботи з системою версіонування коду GitHub.](https://github.com/BobasB/devops_course/tree/master/lab1) 
-> Deadline: 01.11.2020
+> Deadline: 
 ---
 ## [Lab_2a: Основи роботи з Python.](https://github.com/BobasB/devops_course/tree/master/lab2a)
-> Deadline: 08.11.2020
+> Deadline: 
 ---
 ## [Lab_2: Автоматизація. Знайомство з CI/CD.](https://github.com/BobasB/devops_course/tree/master/lab2)
-> Deadline: 15.11.2020
+> Deadline: 
 ---
 ## [Lab_3: Вступ до моніторингу](https://github.com/BobasB/devops_course/tree/master/lab3)
-> Deadline: 29.11.2020
+> Deadline: 
 ---
 ## [Lab_4: Робота з Docker](https://github.com/BobasB/devops_course/tree/master/lab4)
-> Deadline: 27.12.2020
+> Deadline: 
 ---
 ## [Lab_5: Автоматизація за допомогою Makefile VS Docker Compose](https://github.com/BobasB/devops_course/tree/master/lab5)
-> Deadline: 18.01.2021 (кінець семестру)
+> Deadline: 
 ---
 ## [Lab_6: Автоматизація за допомогою CI/CD серверів.](https://github.com/BobasB/devops_course/tree/master/lab6)
-> Deadline: 18.01.2021 (кінець семестру)
+> Deadline: 
 ---
 ### Як робити pull request при здачі лабораторної!
 :bangbang: Створюючи пул реквест вказуйте: Номер роботи, Прізвище ІП, група.
