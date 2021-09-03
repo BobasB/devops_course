@@ -1,3 +1,5 @@
 secretfile filter=git-crypt diff=git-crypt
 2019/** filter=git-crypt diff=git-crypt
 2019/README.md !filter !diff
+2020/** filter=git-crypt diff=git-crypt
+2020/README.md !filter !diff
