@@ -31,4 +31,5 @@ if __name__ == '__main__':
         how_to_write_logs()
     else:
         main(args.opt)
+    print("test")
 
