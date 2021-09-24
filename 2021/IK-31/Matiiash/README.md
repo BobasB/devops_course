@@ -25,3 +25,5 @@ git commit
 потім через веб версію вставив посилання на зображення в readme.md
 
 ![alt text](https://github.com/asiansouldja/matiiash_labs/blob/main/ex1/img.png "test picture")
+
+https://github.com/asiansouldja/matiiash_labs
