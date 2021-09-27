@@ -8,6 +8,10 @@
 | Чабак       | | :white_check_mark: |  |  |  |  |  | |
 | Хом'як      | | :white_check_mark: |  |  |  |  |  | |
 | Вульчак     | | :white_check_mark: |  |  |  |  |  | |
+| Прихода     | | :white_check_mark: |  |  |  |  |  | |
+| Янович      | | :white_check_mark: |  |  |  |  |  | |
+| Мальгін     | | :white_check_mark: |  |  |  |  |  | |
+| Ніколайчук  | | :white_check_mark: |  |  |  |  |  | |
 
 ---
 ## Пояснення
