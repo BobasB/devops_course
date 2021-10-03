@@ -9,15 +9,15 @@ class TestClass(unittest.TestCase):
         self.ip_url = 'http://ip.jsontest.com/'
 
     def test_date_work_successfully(self):
-        # Перевіряєм чи функція відправювала до кінця і повернулі True
+        # Перевіряємо чи функція відпрацювала до кінця і повернула True
         self.assertTrue(main(self.date_url))
 
     def test_empty_url(self):
-        # Перевіряєм чи у функцію не було передано жодної URL
+        # Перевіряємо чи у функцію не було передано жодної URL
         self.assertFalse(main())
 
     def test_no_date_in_response(self):
-        # Перевіряємо що у відповіді відсутнє поле дата (тобто передана направильна URL)
+        # Перевіряємо що у відповіді відсутнє поле дата (тобто передана неправильна URL)
         with self.assertRaises(Exception):
             main(self.ip_url)
 
@@ -26,4 +26,4 @@ class TestClass(unittest.TestCase):
         self.assertTrue(True)
 
     def test_my_fun(self):
-        self.assertEqual(my_good_fun(), "Success")
+        self.assertEqual(my_good_fun(), "success")
