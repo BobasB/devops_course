@@ -1,4 +1,4 @@
 | №             | Посилання                                                                                                                   |
 |---------------|-----------------------------------------------------------------------------------------------------------------------------|
-|1              | [Здобуття навиків роботи з системою версіонування коду GitHub] (https://github.com/OlehChabak/Chabak_IK-31/tree/main/lab_1"bobas") |
-|2a             | [Основи роботи з Python] (https://github.com/OlehChabak/Chabak_IK-31/tree/main/lab_2a)                                      |
+|1              | [Здобуття навиків роботи з системою версіонування коду GitHub](https://github.com/OlehChabak/Chabak_IK-31/tree/main/lab_1"bobas") |
+|2a             | [Основи роботи з Python](https://github.com/OlehChabak/Chabak_IK-31/tree/main/lab_2a)                                      |
