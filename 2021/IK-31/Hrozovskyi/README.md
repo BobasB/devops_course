@@ -4,3 +4,4 @@
 2a| [Основи роботи з Python.](https://github.com/VladGrz/Hrozovskyi_IK-31_devops_labs/tree/master/lab_2a)
 2| [Автоматизація. Знайомство з CI/CD.](https://github.com/VladGrz/Hrozovskyi_IK-31_devops_labs/tree/master/lab_2)
 3| [Вступ до моніторингу.](https://github.com/VladGrz/Hrozovskyi_IK-31_devops_labs/tree/master/lab_3)
+4| [Робота з Docker.](https://github.com/VladGrz/Hrozovskyi_IK-31_devops_labs/tree/master/lab_4)
