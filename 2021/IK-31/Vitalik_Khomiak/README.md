@@ -6,3 +6,4 @@
 | Lab_2A |  [ Основи роботи з Python. ](https://github.com/Vitalik-Khomiak/Vitalik_Khomiak_IK_31/blob/main/lab_2a)  |
 | Lab_2 |  [ Автоматизація. Знайомство з CI/CD. ](https://github.com/Vitalik-Khomiak/Vitalik_Khomiak_IK_31/blob/main/lab_2)  |
 | Lab_3 |  [ Вступ до моніторингу ](https://github.com/Vitalik-Khomiak/Vitalik_Khomiak_IK_31/blob/main/lab_3)  |
+
