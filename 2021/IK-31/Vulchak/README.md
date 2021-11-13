@@ -5,3 +5,4 @@
 | 2A |  [ Основи роботи з Python. ](https://github.com/PavloVulchak/Pavlo_Vulchak_IK_31/tree/master/Lab2a)  |
 | 2 |  [ Автоматизація. Знайомство з CI/CD. ](https://github.com/PavloVulchak/Pavlo_Vulchak_IK_31/tree/master/Lab_2)  |
 | 3 |  [ Вступ до моніторингу ](https://github.com/PavloVulchak/Pavlo_Vulchak_IK_31/tree/master/Lab3)  |
+| 4 |  [ Робота з Docker ](https://github.com/PavloVulchak/Pavlo_Vulchak_IK_31/tree/master/Lab4)  |
