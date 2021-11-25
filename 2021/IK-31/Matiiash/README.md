@@ -7,3 +7,4 @@
 | 2    | https://github.com/asiansouldja/matiiash_labs/tree/main/ex2 |
 | 3    | https://github.com/asiansouldja/matiiash_labs/tree/main/ex3 |
 | 4    | https://github.com/asiansouldja/matiiash_labs/tree/main/ex4 |
+| 5    | https://github.com/asiansouldja/matiiash_labs/tree/main/ex5 |
