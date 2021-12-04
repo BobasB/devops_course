@@ -6,3 +6,4 @@
 3| [Вступ до моніторингу.](https://github.com/VladGrz/Hrozovskyi_IK-31_devops_labs/tree/master/lab_3)
 4| [Робота з Docker.](https://github.com/VladGrz/Hrozovskyi_IK-31_devops_labs/tree/master/lab_4)
 5| [Автоматизація за допомогою Makefile VS Docker Compose.](https://github.com/VladGrz/Hrozovskyi_IK-31_devops_labs/tree/master/lab_5)
+6| [Автоматизація за допомогою CI/CD серверів.](https://github.com/VladGrz/Hrozovskyi_IK-31_devops_labs/tree/master/lab_6)
