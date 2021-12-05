@@ -6,3 +6,4 @@
 | 2  |  [ Автоматизація. Знайомство з CI/CD. ](https://github.com/oleksandra-yanovych/Oleksandra_Yanovych_IK_31/tree/master/Lab2)  |
 | 3  |  [ Вступ до моніторингу ](https://github.com/oleksandra-yanovych/Oleksandra_Yanovych_IK_31/tree/master/lab3)  |
 | 4  |  [ Робота з Docker ](https://github.com/oleksandra-yanovych/Oleksandra_Yanovych_IK_31/tree/master/lab4)  |
+| 5  |  [ Автоматизація за допомогою Makefile VS Docker Compose ](https://github.com/oleksandra-yanovych/Oleksandra_Yanovych_IK_31/tree/master/lab5)  |
