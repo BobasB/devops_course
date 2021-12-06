@@ -7,3 +7,4 @@
 | 3 |  [ Вступ до моніторингу. ](https://github.com/4-TUNE/PavliukLab/tree/main/lab3)  |
 | 4 |  [ Робота з Docker. ](https://github.com/4-TUNE/PavliukLab/tree/main/lab4)  |
 | 5 |  [ Автоматизація за допомогою Makefile VS Docker Composer. ](https://github.com/4-TUNE/PavliukLab/tree/main/lab5)  |
+| 6 |  [ Автоматизація за допомогою CI/CD серверів. ](https://github.com/4-TUNE/PavliukLab/tree/main/lab6)  |
