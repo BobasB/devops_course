@@ -7,5 +7,6 @@
 | Lab #3 |[Посилання](https://github.com/Yura47/Yurii-Rybak-IK-31/tree/master/lab_3) |
 | Lab #4 |[Посилання](https://github.com/Yura47/Yurii-Rybak-IK-31/tree/master/lab_4) |
 | Lab #5 |[Посилання](https://github.com/Yura47/Yurii-Rybak-IK-31/tree/master/lab_5) |
+| Lab #6 |[Посилання](https://github.com/Yura47/Yurii-Rybak-IK-31/tree/master/lab_6) |
 
 
