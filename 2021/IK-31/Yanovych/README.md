@@ -7,3 +7,4 @@
 | 3  |  [ Вступ до моніторингу ](https://github.com/oleksandra-yanovych/Oleksandra_Yanovych_IK_31/tree/master/lab3)  |
 | 4  |  [ Робота з Docker ](https://github.com/oleksandra-yanovych/Oleksandra_Yanovych_IK_31/tree/master/lab4)  |
 | 5  |  [ Автоматизація за допомогою Makefile VS Docker Compose ](https://github.com/oleksandra-yanovych/Oleksandra_Yanovych_IK_31/tree/master/lab5)  |
+| 6  |  [ Автоматизація за допомогою CI/CD серверів ](https://github.com/oleksandra-yanovych/Oleksandra_Yanovych_IK_31/tree/master/lab6)  |
