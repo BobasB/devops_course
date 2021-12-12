@@ -8,3 +8,7 @@
 #Звіт [Lab 3](https://github.com/VladyslavSembai/VladyslavSembai-IK-31/tree/main/lab3)
 
 #Звіт [Lab 4](https://github.com/VladyslavSembai/VladyslavSembai-IK-31/tree/main/lab4)
+
+#Звіт [Lab 5](https://github.com/VladyslavSembai/VladyslavSembai-IK-31/tree/main/lab5)
+
+#Звіт [Lab 6](https://github.com/VladyslavSembai/VladyslavSembai-IK-31/tree/main/lab6)
