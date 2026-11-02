@@ -1,0 +1,72 @@
+---
+- name: Налаштування робочої станції Ubuntu 26
+  hosts: all
+  gather_facts: true
+
+  vars:
+    pyenv_root: "{{ ansible_env.HOME }}/.pyenv"
+    workstation_packages:
+      - build-essential
+      - ca-certificates
+      - curl
+      - git
+      - htop
+      - jq
+      - libbz2-dev
+      - libffi-dev
+      - liblzma-dev
+      - libncursesw5-dev
+      - libreadline-dev
+      - libsqlite3-dev
+      - libssl-dev
+      - make
+      - nano
+      - openssh-client
+      - pipx
+      - python3
+      - python3-pip
+      - python3-venv
+      - tk-dev
+      - tree
+      - unzip
+      - vim
+      - wget
+      - xz-utils
+      - zip
+      - zlib1g-dev
+
+  tasks:
+    - name: Перевірити операційну систему
+      ansible.builtin.assert:
+        that:
+          - ansible_distribution == "Ubuntu"
+          - ansible_distribution_major_version == "26"
+        fail_msg: "Цей playbook призначений для Ubuntu 26."
+
+    - name: Оновити кеш пакетів APT
+      ansible.builtin.apt:
+        update_cache: true
+        cache_valid_time: 3600
+      become: true
+
+    - name: Встановити базові програми
+      ansible.builtin.apt:
+        name: "{{ workstation_packages }}"
+        state: present
+      become: true
+
+    - name: Клонувати репозиторій pyenv
+      ansible.builtin.git:
+        repo: https://github.com/pyenv/pyenv.git
+        dest: "{{ pyenv_root }}"
+        update: true
+
+    - name: Налаштувати pyenv для Bash
+      ansible.builtin.blockinfile:
+        path: "{{ ansible_env.HOME }}/.bashrc"
+        create: true
+        mode: "0644"
+        block: |
+          export PYENV_ROOT="$HOME/.pyenv"
+          [[ -d "$PYENV_ROOT/bin" ]] && export PATH="$PYENV_ROOT/bin:$PATH"
+          eval "$(pyenv init - bash)"
