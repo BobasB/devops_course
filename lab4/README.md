@@ -24,7 +24,7 @@
 5. Створіть власний репозиторій на Docker Hub. Для цього залогіньтесь у власний аккаунт на [Docker Hub](https://hub.docker.com) після чого перейдіть у вкладку Repositories і далі натисніть кнопку `Create new repository`. Для прикладу мій репозиторій [знаходиться за адресою](https://cloud.docker.com/repository/registry-1.docker.io/bobas/lab4-examples).
 6. Виконайте білд (build) Docker імеджа та завантажте його до репозиторію. Для цього Ви повинні вказати правильну назву репозиторію та TAG. Оскільки мій репозиторій `bobas/lab4-examples` то команда буде виглядати (де `django` - це тег): 
     ```bash
-    docker build -t bobas/lab4-examples:django .
+    docker build -f lab4/Dockerfile -t bobas/lab4-examples:django .
     docker images
     dokcer push bobas/lab4-examples:django
     ```
