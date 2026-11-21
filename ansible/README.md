@@ -38,3 +38,16 @@ Ansible попросить пароль користувача для викон
 Перевірити встановлення можна командою `pyenv --version`. Доступні версії Python
 можна переглянути через `pyenv install --list`, а потім встановити потрібну та
 вибрати її командою `pyenv install <версія>` і `pyenv global <версія>`.
+
+## Lenovo ThinkStation P520 і лабораторні роботи
+
+Playbook додатково готує станцію до лабораторних курсу:
+
+- Docker (`docker.io`, `docker-compose-v2`) для lab4 і lab5; сервіс вмикається, а користувача додано до групи `docker` — **вийдіть із системи й увійдіть знову**, щоб група застосувалась. Перевірка: `docker run --rm hello-world`.
+- Python 3.12 через pyenv (змінна `python_version`, встановлення з вихідного коду займає кілька хвилин) і `pipenv` через pipx — для lab2 і lab3. Перевірка: `python --version`, `pipenv --version`.
+- `git-crypt`, `make`, `fwupd` (оновлення прошивок), `lm-sensors` і `smartmontools` (стан температур і дисків) для робочої станції.
+- NVIDIA-драйвер (відеокарти Quadro/RTX у P520) вимкнений за замовчуванням. Увімкніть його так, потім перезавантажте ПК:
+
+```bash
+ansible-playbook -i localhost, --connection=local ansible/desktop.yml --ask-become-pass -e install_nvidia_driver=true
+```
