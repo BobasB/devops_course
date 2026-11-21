@@ -19,6 +19,8 @@ sudo apt install ansible
 
 ```bash
 ansible-playbook -i localhost, --connection=local ansible/desktop.yml --ask-become-pass
+
+ansible-playbook -i localhost, --connection=local ansible/desktop.yml -K -e "ansible_become_exe=sudo.ws"
 ```
 
 Ansible попросить пароль користувача для виконання завдань із правами

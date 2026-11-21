@@ -4,7 +4,7 @@
   gather_facts: true
 
   vars:
-    pyenv_root: "{{ ansible_env.HOME }}/.pyenv"
+    pyenv_root: "{{ ansible_facts['user_dir'] }}/.pyenv"
     workstation_packages:
       - build-essential
       - ca-certificates
@@ -23,9 +23,6 @@
       - nano
       - openssh-client
       - pipx
-      - python3
-      - python3-pip
-      - python3-venv
       - tk-dev
       - tree
       - unzip
@@ -34,6 +31,7 @@
       - xz-utils
       - zip
       - zlib1g-dev
+      - zsh
 
   tasks:
     - name: Перевірити операційну систему
