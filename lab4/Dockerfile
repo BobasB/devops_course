@@ -1,4 +1,4 @@
-FROM python:3.7-slim
+FROM python:3.12-slim
 
 LABEL author="Bohdan"
 LABEL version=1.0
@@ -7,17 +7,11 @@ LABEL version=1.0
 RUN apt-get update && apt-get upgrade -y
 
 # Встановлюємо потрібні пакети
-RUN apt-get install git -y && pip install pipenv
+RUN pip install pipenv
 
-# Створюємо робочу папку
-WORKDIR /lab
-
-# Завантажуємо файли з Git
-RUN git clone https://github.com/BobasB/devops_course.git
-
-# Створюємо остаточну робочу папку з Веб-сайтом та копіюємо туди файли
+# Створюємо робочу папку та копіюємо файли лабораторної №3
 WORKDIR /app
-RUN cp -r /lab/devops_course/lab3/* .
+COPY lab3/ .
 
 # Інсталюємо всі залежності
 RUN pipenv install

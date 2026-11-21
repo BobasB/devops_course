@@ -14,9 +14,9 @@
 4. Для знайомства з Docker створимо імедж із Django сайтом зробленим у попередній роботі.
     - Оскільки наш проект на Python то і базовий імедж також потрібно вибрати відповідний. Всі імеджі можна знайти на [Python Docker Hub](https://hub.docker.com/_/python). Використаємо команду щоб завантажити базовий імедж з репозиторію: (_це можна і не робити, оскільки при запуску Dockerfile може самостійно його завантажити_)
     ```bash
-    docker pull python:3.7-slim
+    docker pull python:3.12-slim
     docker images
-    docker inspect python:3.7-slim
+    docker inspect python:3.12-slim
     ```
     - Створіть файл з іменем `Dockerfile` скопіюйте туди вміс такого ж файлу з цього репозиторію;
     - Ознайомтесь із коментарями та постарайтесь зрозуміти структуру написання Dockerfile;
@@ -24,7 +24,7 @@
 5. Створіть власний репозиторій на Docker Hub. Для цього залогіньтесь у власний аккаунт на [Docker Hub](https://hub.docker.com) після чого перейдіть у вкладку Repositories і далі натисніть кнопку `Create new repository`. Для прикладу мій репозиторій [знаходиться за адресою](https://cloud.docker.com/repository/registry-1.docker.io/bobas/lab4-examples).
 6. Виконайте білд (build) Docker імеджа та завантажте його до репозиторію. Для цього Ви повинні вказати правильну назву репозиторію та TAG. Оскільки мій репозиторій `bobas/lab4-examples` то команда буде виглядати (де `django` - це тег): 
     ```bash
-    docker build -t bobas/lab4-examples:django .
+    docker build -f lab4/Dockerfile -t bobas/lab4-examples:django .
     docker images
     dokcer push bobas/lab4-examples:django
     ```

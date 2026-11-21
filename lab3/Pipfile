@@ -10,7 +10,7 @@ django = "*"
 requests = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.12"
 
 [scripts]
 server = "python manage.py runserver 0.0.0.0:8000"
