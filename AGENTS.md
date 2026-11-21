@@ -10,13 +10,22 @@
 - `.travis.yml` — CI; `Makefile` — оновлення Pipfile.lock (`make update-pipfile`), `make clean`.
 
 ## Команди
-- Lab2 тести: `cd lab2 && pipenv install && pipenv run pytest tests/tests.py`
-- Lab3: `cd lab3 && pipenv install && ./scripts/travis-build.sh`
-- Lab5: `cd lab5 && make` / `docker-compose up` (див. README лабораторної)
+- Корінь: `make update-pipfile` (виконує `pipenv lock --clear` лише у `lab2` і `lab3`), `make clean` (видаляє `.pytest_cache`).
+- Lab2 тести: `cd lab2 && pipenv install && pipenv run pytest tests/tests.py`. У `.travis.yml` цей крок має `|| true`, тож CI не падає від помилок тестів.
+- Lab2 `Makefile` — шаблон для студентів (`# Ваш код тут`); цілі навмисно порожні, не «виправляйте» їх.
+- Lab3: `cd lab3 && pipenv install && ./scripts/travis-build.sh`.
+- Lab4: `cd lab4 && docker build -t bobas/lab4-examples:django-travis .` (Travis пушить образ лише поза PR, через секрети `DOCKER_USERNAME`/`DOCKER_PASSWORD`).
+- Lab5 (Makefile): `cd lab5 && make app && make tests && make run && make test-app`; голий `make` нічого не запускає. `make docker-prune` видаляє ВСІ контейнери, томи, мережі й образи — не запускати без потреби.
+- Lab5 (Compose): `cd lab5 && docker-compose up --build` (`hits` на порту 80, `redis`, `tests`).
+- Для lab4/lab5 потрібен запущений Docker daemon.
+
+## CI
+Лише Travis (`.travis.yml`), збирається тільки гілка `master`; етапи: lab2, lab3, lab4, lab5. GitHub Actions немає.
 
 ## Правила
 - Один PR — одна лабораторна; у назві PR: номер роботи, прізвище, група.
 - Не змінювати чужі студентські роботи в `2019`–`2021` без потреби.
 - Репозиторій використовує git-crypt (`.git-crypt`); не коммітити секрети й `db.sqlite3`.
 - Документація курсу — українською; зберігайте мову існуючих файлів.
-- Оновлення залежностей — через Dependabot PR; після зміни `Pipfile` оновлюйте `Pipfile.lock`.
+- Після зміни `Pipfile` оновлюйте `Pipfile.lock` (`make update-pipfile`). Залежності також оновлює Dependabot; студентські PR з лабораторними — не залежності.
+- `lab3/server.log` — артефакт, не редагувати вручну.
