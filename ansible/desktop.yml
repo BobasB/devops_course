@@ -126,6 +126,13 @@
         state: started
       become: true
 
+    - name: Встановити ubuntu-drivers-common (опційно)
+      ansible.builtin.apt:
+        name: ubuntu-drivers-common
+        state: present
+      become: true
+      when: install_nvidia_driver | bool
+
     - name: Встановити драйвер NVIDIA (опційно)
       ansible.builtin.command: ubuntu-drivers install
       become: true

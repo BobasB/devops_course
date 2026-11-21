@@ -43,7 +43,7 @@ Ansible попросить пароль користувача для викон
 
 Playbook додатково готує станцію до лабораторних курсу:
 
-- Docker (`docker.io`, `docker-compose-v2`) для lab4 і lab5; сервіс вмикається, а користувача додано до групи `docker` — **вийдіть із системи й увійдіть знову**, щоб група застосувалась. Перевірка: `docker run --rm hello-world`.
+- Docker (`docker.io`, `docker-compose-v2`) для lab4 і lab5; сервіс вмикається, а користувача додано до групи `docker` — **вийдіть із системи й увійдіть знову**, щоб група застосувалась. Перевірка: `docker run --rm hello-world`. У lab5 замінюйте команду `docker-compose` на `docker compose` (з пробілом): плагін Compose v2 не надає команду `docker-compose`.
 - Python 3.12 через pyenv (змінна `python_version`, встановлення з вихідного коду займає кілька хвилин) і `pipenv` через pipx — для lab2 і lab3. Перевірка: `python --version`, `pipenv --version`.
 - `git-crypt`, `make`, `fwupd` (оновлення прошивок), `lm-sensors` і `smartmontools` (стан температур і дисків) для робочої станції.
 - NVIDIA-драйвер (відеокарти Quadro/RTX у P520) вимкнений за замовчуванням. Увімкніть його так, потім перезавантажте ПК:
