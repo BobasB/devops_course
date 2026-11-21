@@ -51,3 +51,13 @@ Playbook додатково готує станцію до лабораторн�
 ```bash
 ansible-playbook -i localhost, --connection=local ansible/desktop.yml --ask-become-pass -e install_nvidia_driver=true
 ```
+
+## Ollama
+
+Playbook встановлює Ollama офіційним скриптом (`https://ollama.com/install.sh`) і вмикає сервіс `ollama` (API на `127.0.0.1:11434`). Для NVIDIA-відеокарти спочатку встановіть драйвер (`-e install_nvidia_driver=true`) і перезавантажте ПК, щоб Ollama використовувала GPU. Щоб одразу завантажити моделі:
+
+```bash
+ansible-playbook -i localhost, --connection=local ansible/desktop.yml --ask-become-pass -e '{"ollama_models": ["llama3.2"]}'
+```
+
+Перевірка: `ollama --version`, `ollama run llama3.2`.
