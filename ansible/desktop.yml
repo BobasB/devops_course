@@ -8,6 +8,8 @@
     # Lenovo ThinkStation P520 (Xeon W, зазвичай NVIDIA Quadro/RTX): драйвер
     # встановлюється лише якщо ввімкнено (потрібна відеокарта NVIDIA).
     install_nvidia_driver: false
+    # Моделі Ollama для завантаження (порожній список — не завантажувати).
+    ollama_models: []
     pyenv_root: "{{ ansible_facts['user_dir'] }}/.pyenv"
     workstation_packages:
       - build-essential
@@ -40,6 +42,7 @@
       - wget
       - xz-utils
       - zip
+      - zstd
       - zlib1g-dev
       - zsh
 
@@ -139,3 +142,27 @@
       when: install_nvidia_driver | bool
       register: nvidia_driver
       changed_when: "'installing' in (nvidia_driver.stdout | lower)"
+
+    - name: Завантажити офіційний скрипт встановлення Ollama
+      ansible.builtin.get_url:
+        url: https://ollama.com/install.sh
+        dest: /tmp/ollama-install.sh
+        mode: "0755"
+
+    - name: Встановити Ollama
+      ansible.builtin.command: /tmp/ollama-install.sh
+      args:
+        creates: /usr/local/bin/ollama
+      become: true
+
+    - name: Увімкнути та запустити сервіс Ollama
+      ansible.builtin.systemd_service:
+        name: ollama
+        enabled: true
+        state: started
+      become: true
+
+    - name: Завантажити моделі Ollama
+      ansible.builtin.command: "ollama pull {{ item }}"
+      loop: "{{ ollama_models }}"
+      changed_when: true
