@@ -1,20 +1,20 @@
 language: python
 
 python:
-  - "3.7"
+  - "3.12"
 
 jobs:
   include:
     - stage: "Build Lab 2."
       name: "Run tests for Lab 2"
-      python: 3.7
+      python: "3.12"
       install:
         - cd ./lab2/
         - pipenv install
       script: pipenv run pytest tests/tests.py || true
     - stage: "Build Lab 3."
       name: "Run Djungo Server and test it accessibility. Fail to run and test"
-      python: 3.7
+      python: "3.12"
       install:
         - cd ./lab3/
         - pipenv install

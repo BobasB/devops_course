@@ -4,7 +4,7 @@
 
 ## Структура
 - `lab1`…`lab6` — лабораторні (Git, Python/CI, моніторинг/Django, Docker, Makefile/Compose, CI/CD).
-- `lab2`, `lab3` — Python 3.7 + Pipenv (`Pipfile`, `Pipfile.lock`); `lab3` — Django.
+- `lab2`, `lab3` — Python 3.12 + Pipenv (`Pipfile`, `Pipfile.lock`); `lab3` — Django.
 - `lab4`, `lab5` — Dockerfile / docker-compose.
 - `ansible/` — playbook налаштування Ubuntu 26 (див. `ansible/README.md`); `example/` — зразок README для здачі лабораторної; `2019`, `2020`, `2021` — архів студентів.
 - `.travis.yml` — CI; `Makefile` — оновлення Pipfile.lock (`make update-pipfile`), `make clean`.
