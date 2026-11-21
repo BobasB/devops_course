@@ -4,12 +4,20 @@
   gather_facts: true
 
   vars:
+    python_version: "3.12"
+    # Lenovo ThinkStation P520 (Xeon W, зазвичай NVIDIA Quadro/RTX): драйвер
+    # встановлюється лише якщо ввімкнено (потрібна відеокарта NVIDIA).
+    install_nvidia_driver: false
     pyenv_root: "{{ ansible_facts['user_dir'] }}/.pyenv"
     workstation_packages:
       - build-essential
       - ca-certificates
       - curl
+      - docker-compose-v2
+      - docker.io
+      - fwupd
       - git
+      - git-crypt
       - htop
       - jq
       - libbz2-dev
@@ -19,9 +27,11 @@
       - libreadline-dev
       - libsqlite3-dev
       - libssl-dev
+      - lm-sensors
       - make
       - nano
       - openssh-client
+      - smartmontools
       - pipx
       - tk-dev
       - tree
@@ -68,3 +78,64 @@
           export PYENV_ROOT="$HOME/.pyenv"
           [[ -d "$PYENV_ROOT/bin" ]] && export PATH="$PYENV_ROOT/bin:$PATH"
           eval "$(pyenv init - bash)"
+
+    - name: Додати pyenv до PATH для наступних завдань
+      ansible.builtin.set_fact:
+        pyenv_bin: "{{ pyenv_root }}/bin/pyenv"
+
+    - name: Встановити через pyenv Python {{ python_version }}
+      ansible.builtin.command: "{{ pyenv_bin }} install --skip-existing {{ python_version }}"
+      environment:
+        PYENV_ROOT: "{{ pyenv_root }}"
+      register: pyenv_install
+      changed_when: "'Installing' in pyenv_install.stdout"
+
+    - name: Зробити версією pyenv за замовчуванням {{ python_version }}
+      ansible.builtin.command: "{{ pyenv_bin }} global {{ python_version }}"
+      environment:
+        PYENV_ROOT: "{{ pyenv_root }}"
+      changed_when: false
+
+    - name: Встановити pipenv через pipx
+      ansible.builtin.command: pipx install pipenv
+      args:
+        creates: "{{ ansible_env.HOME }}/.local/bin/pipenv"
+
+    - name: Додати ~/.local/bin до PATH (pipx)
+      ansible.builtin.command: pipx ensurepath
+      changed_when: false
+
+    - name: Увімкнути та запустити Docker
+      ansible.builtin.systemd_service:
+        name: docker
+        enabled: true
+        state: started
+      become: true
+
+    - name: Додати користувача до групи docker (потрібен повторний вхід)
+      ansible.builtin.user:
+        name: "{{ ansible_user_id }}"
+        groups: docker
+        append: true
+      become: true
+
+    - name: Увімкнути SMART-моніторинг дисків
+      ansible.builtin.systemd_service:
+        name: smartmontools
+        enabled: true
+        state: started
+      become: true
+
+    - name: Встановити ubuntu-drivers-common (опційно)
+      ansible.builtin.apt:
+        name: ubuntu-drivers-common
+        state: present
+      become: true
+      when: install_nvidia_driver | bool
+
+    - name: Встановити драйвер NVIDIA (опційно)
+      ansible.builtin.command: ubuntu-drivers install
+      become: true
+      when: install_nvidia_driver | bool
+      register: nvidia_driver
+      changed_when: "'installing' in (nvidia_driver.stdout | lower)"
