@@ -15,7 +15,7 @@
 - Lab2 `Makefile` — шаблон для студентів (`# Ваш код тут`); цілі навмисно порожні, не «виправляйте» їх.
 - Lab3: `cd lab3 && pipenv install && ./scripts/travis-build.sh`.
 - Lab4: `cd lab4 && docker build -t bobas/lab4-examples:django-travis .` (Travis пушить образ лише поза PR, через секрети `DOCKER_USERNAME`/`DOCKER_PASSWORD`).
-- Lab5 (Makefile): `cd lab5 && make app && make tests && make run && make test-app`; голий `make` нічого не запускає. `make docker-prune` видаляє ВСІ контейнери, томи, мережі й образи — не запускати без потреби.
+- Lab5 (Makefile): `cd lab5 && make app && make tests && make run && make test-app`; голий `make` збирає образ `app`, але не запускає контейнер. `make docker-prune` примусово видаляє всі контейнери, невикористані томи й мережі та лише висячі образи (не всі образи) — команда руйнівна, не запускати без потреби.
 - Lab5 (Compose): `cd lab5 && docker-compose up --build` (`hits` на порту 80, `redis`, `tests`).
 - Для lab4/lab5 потрібен запущений Docker daemon. `lab4/Dockerfile` клонує `lab3` з GitHub (не з локальної копії), тож локальні зміни lab3 в образ не потраплять. `make run` у lab5 падає, якщо мережа `appnet` уже існує.
 
